@@ -1,0 +1,32 @@
+﻿2022-10-31 11:11:33:0000 : EXCEPTION - Selectedsubtask'ddlplanmaintask' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+2022-10-31 11:11:41:3038 : EXCEPTION - Selectedsubtask'ddlplanmaintask' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+2022-10-31 11:11:44:7816 : EXCEPTION - Selectedsubtask'ddlplanmaintask' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+2022-10-31 11:11:46:2940 : EXCEPTION - Selectedsubtask'ddlplanmaintask' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+2022-10-31 11:11:47:7544 : EXCEPTION - Selectedsubtask'ddlplanmaintask' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+2022-10-31 11:15:03:5239 : EXCEPTION - Selectedsubtask'ddlplanmaintask' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+2022-10-31 11:16:51:6281 : EXCEPTION - Selectedsubtask'ddlplanmaintask' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+2022-10-31 14:16:37:9339 : EXCEPTION - SaveSubTaskDetails@Dependencies is not a parameter for procedure S_Get_Project_Tasks_Details.
+2022-10-31 14:16:52:8835 : EXCEPTION - SaveSubTaskDetails@Dependencies is not a parameter for procedure S_Get_Project_Tasks_Details.
+2022-10-31 14:17:56:7703 : EXCEPTION - SaveSubTaskDetails@Dependencies is not a parameter for procedure S_Get_Project_Tasks_Details.
+2022-10-31 14:20:44:9831 : EXCEPTION - SaveSubTaskDetails@Dependencies is not a parameter for procedure S_Get_Project_Tasks_Details.
+2022-10-31 14:26:58:9577 : EXCEPTION - SaveSubTaskDetails@Dependencies is not a parameter for procedure S_Get_Project_Tasks_Details.
+2022-10-31 14:27:40:3909 : EXCEPTION - SaveSubTaskDetails@Dependencies is not a parameter for procedure S_Get_Project_Tasks_Details.
+2022-10-31 14:28:48:2035 : EXCEPTION - SaveSubTaskDetails@Dependencies is not a parameter for procedure S_Get_Project_Tasks_Details.
+2022-10-31 14:29:14:6415 : EXCEPTION - SaveSubTaskDetails@Dependencies is not a parameter for procedure S_Get_Project_Tasks_Details.
+2022-10-31 14:30:21:5670 : EXCEPTION - SaveSubTaskDetails@Dependencies is not a parameter for procedure S_Get_Project_Tasks_Details.
+2022-10-31 14:31:00:8923 : EXCEPTION - SaveSubTaskDetails@Dependencies is not a parameter for procedure S_Get_Project_Tasks_Details.
+2022-10-31 16:55:43:3061 : EXCEPTION - Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+2022-10-31 16:56:56:2259 : EXCEPTION - Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+2022-10-31 16:56:56:3283 : EXCEPTION - SelecteddashboardsubtaskTimeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+2022-10-31 16:57:14:8390 : EXCEPTION - Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+2022-10-31 16:58:22:0213 : EXCEPTION - Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+2022-10-31 16:58:22:1498 : EXCEPTION - SelectedsubtaskTimeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+2022-10-31 16:58:39:1091 : EXCEPTION - Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+2022-10-31 19:21:45:3902 : EXCEPTION - Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=351; handshake=5667; 

@@ -1,0 +1,12 @@
+﻿2022-08-29 09:50:11:8578 : EXCEPTION - InsertTaskDetailsGridview:Error converting data type nvarchar to float.
+2022-08-29 09:50:11:9499 : EXCEPTION - ErrorError converting data type nvarchar to float.
+2022-08-29 09:51:29:4208 : EXCEPTION - InsertTaskDetailsGridview:Error converting data type nvarchar to float.
+2022-08-29 09:51:29:4776 : EXCEPTION - ErrorError converting data type nvarchar to float.
+2022-08-29 09:56:05:0455 : EXCEPTION - InsertTaskDetailsGridview:Error converting data type nvarchar to float.
+2022-08-29 09:56:05:1148 : EXCEPTION - ErrorError converting data type nvarchar to float.
+2022-08-29 10:07:46:9924 : EXCEPTION - InsertTaskDetailsGridview:Error converting data type nvarchar to float.
+2022-08-29 10:07:47:1039 : EXCEPTION - ErrorError converting data type nvarchar to float.
+2022-08-29 10:37:44:5601 : EXCEPTION - btnsave_click:Input string was not in a correct format.
+2022-08-29 10:46:41:5602 : EXCEPTION - btnsave_click:Input string was not in a correct format.
+2022-08-29 11:58:32:8877 : EXCEPTION - ErrorObject reference not set to an instance of an object.
+2022-08-29 12:23:30:0944 : EXCEPTION - ErrorObject reference not set to an instance of an object.

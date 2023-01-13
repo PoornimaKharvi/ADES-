@@ -1,0 +1,1518 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="ADES_22.SiteMaster" %>
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head runat="server">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title><%: Page.Title %> - ADES Software</title>
+
+    <asp:PlaceHolder runat="server">
+        <%: Scripts.Render("~/bundles/modernizr") %>
+    </asp:PlaceHolder>
+
+    <script src="Scripts/jquery-3.4.1.js"></script>
+    <script src="Scripts/jquery-3.4.1.min.js"></script>
+    <script src="Scripts/bootstrap.js"></script>
+    <script src="Scripts/bootstrap.min.js"></script>
+    <link href="Content/bootstrap.css" rel="stylesheet" />
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="Tostr/css/toastr.min.css" rel="stylesheet" />
+    <script src="Tostr/js/toastr.min.js"></script>
+
+    <webopt:BundleReference runat="server" Path="~/Content/css" />
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <script type="text/javascript" src="//cdn.jsdelivr.net/jquery/1/jquery.min.js"></script>
+    <link media="screen" rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/css/toastr.css" />
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/2.0.1/js/toastr.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.3/font/bootstrap-icons.css">
+
+    <script>
+        function OpenModal(modalID, isAnimationRequired) {
+            $(".modal-backdrop").removeClass("modal-backdrop in");
+            $('#' + modalID).modal('show');
+            if (isAnimationRequired.toLowerCase() == "true") {
+                $('#' + modalID).addClass('show-modal');
+            } else {
+                $('#' + modalID).removeClass('show-modal');
+            }
+        }
+
+        function OpenWarningModal(msg) {
+            $('#warningModal').modal('show');
+            $("#warningModalMsg").text(msg);
+        }
+
+        function OpenErrorModal(msg) {
+            $('#errorModal').modal('show');
+            $("#errorModalMsg").text(msg);
+        }
+
+        function SuccessToastr(msg, title) {
+            toastr.options = {
+                "closeButton": true,
+                "debug": false,
+                "newestOnTop": false,
+                "progressBar": true,
+                "positionClass": "toast-top-right",
+                "prighttDuplicates": true,
+                "onclick": null,
+                "showDuration": "3000",
+                "hideDuration": "300",
+                "timeOut": "3000",
+                "extendedTimeOut": "1000",
+                "showEasing": "swing",
+                "hideEasing": "linear",
+                "showMethod": "fadeIn",
+                "hideMethod": "fadeOut"
+
+            }
+            var d = Date();
+            toastr.success(msg, title);
+            return false;
+        }
+
+        function WarningToastr(msg, title) {
+            toastr.options = {
+                "closeButton": true,
+                "debug": false,
+                "newestOnTop": false,
+                "progressBar": true,
+                "positionClass": "toast-top-right",
+                "preventDuplicates": true,
+                "onclick": null,
+                "showDuration": "3000",
+                "hideDuration": "300",
+                "timeOut": "3000",
+                "extendedTimeOut": "1000",
+                "showEasing": "swing",
+                "hideEasing": "linear",
+                "showMethod": "fadeIn",
+                "hideMethod": "fadeOut"
+            }
+            var d = Date();
+            toastr.warning(msg, title);
+            return false;
+        }
+
+        function clearscreen() {
+            $(".modal-backdrop").removeClass("modal-backdrop in");
+            $(".modal").modal("hide");
+            $('body').removeClass('modal-open');
+        }
+
+    </script>
+    
+    <style>
+        * {
+            margin: 0px;
+            padding: 0px;
+            font-family: 'Segoe UI';
+            font-size: 14px;
+        }
+
+        /* ----- To all pages ----- */
+
+        #Content1 {
+            font-family: 'Segoe UI';
+            margin-top: 10px;
+        }
+
+        /* ------------------------ */
+
+        /* ----- Title Bar -----*/
+    
+        .h5 {
+            margin-right: 30px;
+            color: black;
+        }
+
+        .navbar navbar-default navbar-fixed-top text-center {
+        }
+
+        .PageHeader {
+            text-align: center;
+            font-size: 30px;
+            padding: 0px;
+            margin-top: -45px;
+            background-color: white;
+            color: black;
+        }
+
+        .NavRightCorner {
+            text-align: right;
+            padding: 0px;
+            margin-top: -55px;
+            border-bottom: solid;
+            border-width: 5px;
+            border-bottom-color: orange;
+        }
+
+        .glyphstyle, .glyphstyle:hover {
+            color: orange;
+            font-size: 25px;
+            margin-right: 16px;
+            margin-top: 5px;
+        }
+
+        /* -------------------- */
+
+        /* ----- Sidebar Nav ----- */
+
+        .sidenav {
+            height: 100%;
+            position: fixed;
+            z-index: 3;
+            top: 0;
+            left: 0;
+            background-color: orange;
+            color: black;
+            transition: 0.5s;
+            padding-top: 60px;
+            overflow: hidden;
+        }
+
+            .sidenav ul {
+                width: 190px;
+                overflow: scroll;
+                overflow-x: hidden;
+            }
+
+                .sidenav ul li a {
+                    color: black;
+                    font-size: 13px;
+                    text-decoration: none;
+                }
+
+        #sidebar {
+            position: fixed;
+            top: 0px;
+            height: 100%;
+            background-color: orange;
+            transition: all 500ms linear;
+        }
+
+            #sidebar ul {
+                overflow: auto;
+                overflow-x: hidden;
+            }
+
+            #sidebar.active {
+                left: 0px;
+            }
+
+            #sidebar ul li {
+                color: black;
+                list-style: none;
+                font-size: 12px;
+                padding: 10px;
+                border-bottom: 1px solid white;
+            }
+
+                #sidebar ul li:hover {
+                    background-color: #f0f0f0;
+                    font-weight: bold;
+                }
+
+                    #sidebar ul li:hover a {
+                        color: black;
+                    }
+
+                #sidebar ul li .toggle-btn span {
+                    display: block;
+                    width: 25px;
+                    height: 4px;
+                    background-color: black;
+                    margin: 3px 0px;
+                    border-radius: 2px;
+                }
+
+                    #sidebar ul li .toggle-btn span:hover {
+                        color: black;
+                    }
+
+            /*----- Defect Tracker and Project List -----*/
+
+            #sidebar ul .dropdown-container, .dropdown-container2, .dropdown-container3 {
+                display: none;
+            }
+
+            #sidebar ul li #hassubmenu:hover, #hassubmenu_prj:hover {
+                background-color: orange;
+            }
+
+            #sidebar ul .dropdown-container .submenu {
+                background-color: lightgrey !important;
+            }
+
+            #sidebar ul .dropdown-container2 .submenu {
+                background-color: lightgrey !important;
+            }
+
+            #sidebar ul .dropdown-container3 .submenu {
+                background-color: lightgrey !important;
+            }
+
+                #sidebar ul .dropdown-container .submenu:hover {
+                    background-color: white !important;
+                }
+
+                #sidebar ul .dropdown-container2 .submenu:hover {
+                    background-color: white !important;
+                }
+
+                #sidebar ul .dropdown-container3 .submenu:hover {
+                    background-color: white !important;
+                }
+            #sidebar .sidebar1 li:nth-child(3) {
+                border-bottom-color: white !important;
+            }
+
+            /*-------------------------*/
+
+        #hasdisubmenu:hover {
+            background-color: white;
+        }
+
+        #sidebar ul .dropdown-container1 {
+            display: none;
+        }
+
+        #sidebar ul li #hasdisubmenu:hover {
+            background-color: orange;
+        }
+
+        #sidebar ul .dropdown-container1 .submenu {
+            background-color: lightgrey !important;
+        }
+
+            #sidebar ul .dropdown-container1 .submenu:hover {
+                background-color: white !important;
+            }
+
+        #sidebar .sidebar1 li:nth-child(3) {
+            border-bottom-color: white !important;
+        }
+
+        /* -----------------------*/
+
+        ::-webkit-scrollbar-track {
+            -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+            background-color: white;
+            border-radius: 10px;
+        }
+
+        ::-webkit-scrollbar {
+            width: 8px;
+            height: 8px;
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: inset 0 0 5px grey;
+        }
+
+        ::-webkit-scrollbar-thumb {
+            border-radius: 10px;
+            background-image: -webkit-gradient(linear, left bottom, left top, color-stop(0.44,#83b4f8), color-stop(0.72,#c9c9c9 ), color-stop(0.86,#83b4f8));
+        }
+
+        .empty-row-style {
+            text-align: center;
+        }
+
+        .txt-style {
+            width: 200px;
+        }
+
+        /* ----- Modal popup css ----- */
+
+        .add-edit-modal .modal-content {
+            border: 2px solid orange
+        }
+
+        .add-edit-modal .modal-header {
+            padding: 10px;
+            border-bottom: 1px solid #e5e5e5;
+            background-color: orange;
+        }
+
+        .add-edit-modal .modal-footer {
+            padding: 7px;
+            text-align: right;
+            border-top: 2px solid orange;
+        }
+
+        .add-edit-modal .modal-title {
+            color: black;
+            font-size: 19px;
+            font-style: normal;
+        }
+
+        .add-edit-modal .closeButton {
+            position: absolute;
+            right: 9px;
+            top: 14px;
+            color: black;
+            font-size: 17px
+        }
+
+        .add-edit-modal .modal-body {
+            overflow: auto;
+            padding-left: 20px
+        }
+
+        .add-edit-modal .AddEditBtn {
+            background-color: #093d81;
+            color: white;
+            width: 70px;
+        }
+
+        .add-edit-modal .modal-image {
+            width: 100%;
+            height: 100%;
+        }
+
+        .add-edit-modal .ConfirmText {
+            font-size: 17px;
+        }
+
+        .add-edit-modal .modal-table {
+            width: 100%;
+        }
+
+            .add-edit-modal .modal-table tr td {
+                padding: 5px;
+            }
+
+        /* -------------------------- */
+
+        /* ----- Grid Container ----- */
+
+        .gridContainer {
+            overflow: auto;
+            padding: 0px;
+            margin: auto;
+            margin-top: 10px;
+        }
+
+        .grid {
+            overflow: auto;
+        }
+
+            .grid th {
+                padding: 10px;
+                font-size: 15px;
+                text-align: center;
+                font-weight: bold;
+                color: black;
+                background-color: #EEEEEE;
+            }
+
+            .grid td {
+                padding: 4px;
+                font-size: 14px;
+            }
+
+            .grid th, .grid td {
+                border: unset;
+                border-bottom: 0.5px solid #cdcdcd !important;
+                border-right: 0.5px solid #cdcdcd !important;
+                border-top: 0.5px solid #cdcdcd !important;
+                border-bottom: 0.5px solid #cdcdcd !important;
+            }
+
+            .grid tr th {
+                position: sticky;
+                top: -1px;
+               /* left: -1px;
+                right: -1px;*/
+                z-index: 1;
+            }
+
+            .grid .EditlinkBtn {
+                color: #093d81;
+            }
+
+            .grid .DeletelinkBtn {
+                color: red;
+            }
+
+            .grid .InfoLinkBtn {
+                color: royalblue;
+            }
+
+        /* -------------------------- */
+
+        .list {
+            overflow: auto;
+        }
+
+            .list th {
+                padding: 10px;
+                font-size: 15px;
+                text-align: center;
+                font-weight: bold;
+                color: black;
+                background-color: #EEEEEE;
+            }
+
+            .list td {
+                padding: 4px;
+                font-size: 14px;
+            }
+
+            .list th, .list td {
+                border: unset;
+                border: 0.5px solid black !important;
+                border-bottom: 0.5px solid black;
+                border-right: 0.5px solid black;
+                border-left: 0.5px solid #cdcdcd;
+                border-top: 0.5px solid #cdcdcd;
+            }
+
+            .list tr th {
+                position: sticky;
+                top: -1px;
+                left: -1px;
+                right: -1px;
+                z-index: 1;
+            }
+
+        .textsize {
+            width: 170px;
+        }
+
+        .textsize1 {
+            width: 300px;
+        }
+
+        .importdiv {
+            width: 100%;
+            padding-top: 5px;
+            overflow: auto
+        }
+
+        .filterTable .tbl {
+            width: 100%;
+        }
+
+        .tbl tr td {
+            padding: 10px;
+        }
+
+        tr td span div {
+            width: 100%;
+        }
+
+
+        .Buttons {
+            color: black;
+            font-size: 15px;
+            padding: 6px;
+            width: 110px;
+            border-radius: 5px;
+            background-color: orange;
+            border-color: orange;
+        }
+
+        .successBtn {
+            background-color: limegreen;
+            height: 34px;
+            width: 110px;
+            border-radius: 5px;
+            border-color: limegreen;
+            color: white;
+        }
+
+        .CancelBtn {
+            width: 70px;
+        }
+
+        .show-modal {
+            animation: modalshow 0.8s;
+            transform: scale(1);
+        }
+
+        @keyframes modalshow {
+            from {
+                transform: scale(0);
+            }
+
+            to {
+                /*opacity: 1;*/
+            }
+        }
+
+        .NavTable {
+            float: right;
+        }
+
+            .NavTable tr td {
+                padding: 3px;
+                width: auto;
+            }
+
+        /* ----- Filter Panel ----- */
+
+        .FilterBtn {
+            background-color: #0c98e6;
+            color: white;
+            border-color: #0c98e6;
+        }
+
+        .filterDiv {
+            text-align: center;
+            padding: 5px;
+            width: 80%;
+        }
+
+        .overlay {
+            height: 100%;
+            width: 400px;
+            position: fixed;
+            z-index: 2000;
+            top: 0;
+            right: 0;
+            margin-top: 50px;
+            background-color: white;
+            overflow-x: hidden;
+            transition: 0.5s;
+            box-shadow: 5px 10px 18px #888888;
+        }
+
+        .overlay-content {
+            position: relative;
+            top: 4%;
+            width: 100%;
+            margin-left: 30px;
+            margin-top: 30px;
+        }
+
+        .overlay a {
+            padding: 8px;
+            text-decoration: none;
+            font-size: 36px;
+            color: black;
+            display: block;
+            transition: 0.3s;
+        }
+
+            .overlay a:hover, .overlay a:focus {
+                color: darkgray;
+            }
+
+        .overlay .closebtn {
+            position: absolute;
+            top: 20px;
+            right: 45px;
+            font-size: 60px;
+        }
+
+        @media screen and (max-height: 450px) {
+            .overlay a {
+                font-size: 20px
+            }
+
+            .overlay .closebtn {
+                font-size: 40px;
+                top: 15px;
+                right: 35px;
+            }
+        }
+
+        .overlay .cb {
+            position: absolute;
+            top: -5px;
+            right: 45px;
+            font-size: 60px;
+        }
+
+        @media screen and (max-height: 450px) {
+            .overlay a {
+                font-size: 20px
+            }
+
+            .overlay .cb {
+                font-size: 40px;
+                top: -5px;
+                right: 35px;
+            }
+        }
+
+        .FilterCss {
+            font-size: 25px;
+            font-weight: bold;
+        }
+
+        .OuterDiv {
+            background-color: whitesmoke;
+            padding: 5px;
+            width: 80%;
+            border-radius: 15px;
+        }
+
+        .InnerDiv {
+            padding: 10px;
+        }
+
+        .multiselect, .txtsize {
+            width: 220px;
+        }
+
+        .btnlarge {
+            color: black;
+            font-size: 15px;
+            padding: 10px;
+            width: 250px;
+            border-radius: 10px;
+            background-color: orange;
+            border-color: orange;
+        }
+
+        /* -------------------------- */
+
+        /* ----- History Modal ------ */
+
+        .HistoryBody {
+            color: black;
+            overflow: auto;
+            max-height: 450px;
+        }
+
+        .HistoryCenter {
+            width: 650px;
+            height: 650px;
+        }
+
+        .ModalStatus {
+            color: dodgerblue;
+        }
+
+        .ModalRTime {
+            color: gray;
+            font-size: 10px;
+        }
+
+        .ModalPName {
+            font-weight: bold;
+        }
+
+        .ModalIID {
+            font-weight: bold;
+            color: grey;
+        }
+
+        .HList {
+            padding: 5px;
+            border-top: 1px solid lightgrey;
+            border-bottom: 1px solid lightgray;
+        }
+
+        .NoRecords {
+            font-size: large;
+        }
+
+        .EmptyDiv {
+            width: 100%;
+            text-align: center;
+        }
+
+        /* --------------------------- */
+
+        /* ----- More Info Panel ----- */
+
+        .triangle-right {
+            background-color: transparent;
+            width: 0px;
+            height: 0px;
+            border: 14px solid;
+            border-top-color: transparent;
+            border-left-color: transparent;
+            border-right-color: transparent;
+            border-bottom-color: #e8e8e8;
+            filter: drop-shadow(0px 0px 1px rgba(0,0,0,.5)) !important;
+            position: absolute;
+            position: absolute;
+            top: -25px;
+            right: 11px;
+            z-index: -2;
+        }
+
+        .modal-table tr td {
+            padding: 5px;
+            width: 250px;
+        }
+
+        .fontStyle {
+            font-weight: 500;
+        }
+
+        .modal-table1 tr td {
+            padding: 3px;
+        }
+
+        /* --------------------------- */
+
+        /* ----- General ----- */
+
+        .clr, .clr:hover {
+            color: red;
+        }
+
+        .glyphfilter {
+            font-size: 16px;
+        }
+
+        .float {
+            float: right;
+        }
+
+        /* ------------------- */
+    </style>
+</head>
+
+<body style="overflow-x: hidden; overflow-y: hidden">
+    <form runat="server">
+        <asp:ScriptManager runat="server">
+            <Scripts>
+                <%--To learn more about bundling scripts in ScriptManager see https://go.microsoft.com/fwlink/?LinkID=301884 --%>
+                <%--Framework Scripts--%>
+                <asp:ScriptReference Name="MsAjaxBundle" />
+                <asp:ScriptReference Name="jquery" />
+                <asp:ScriptReference Name="bootstrap" />
+                <asp:ScriptReference Name="WebForms.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebForms.js" />
+                <asp:ScriptReference Name="WebUIValidation.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebUIValidation.js" />
+                <asp:ScriptReference Name="MenuStandards.js" Assembly="System.Web" Path="~/Scripts/WebForms/MenuStandards.js" />
+                <asp:ScriptReference Name="GridView.js" Assembly="System.Web" Path="~/Scripts/WebForms/GridView.js" />
+                <asp:ScriptReference Name="DetailsView.js" Assembly="System.Web" Path="~/Scripts/WebForms/DetailsView.js" />
+                <asp:ScriptReference Name="TreeView.js" Assembly="System.Web" Path="~/Scripts/WebForms/TreeView.js" />
+                <asp:ScriptReference Name="WebParts.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebParts.js" />
+                <asp:ScriptReference Name="Focus.js" Assembly="System.Web" Path="~/Scripts/WebForms/Focus.js" />
+                <asp:ScriptReference Name="WebFormsBundle" />
+                <%--Site Scripts--%>
+            </Scripts>
+        </asp:ScriptManager>
+
+        <div class="navbar navbar-default navbar-fixed-top text-center" style="padding: 0px; height: 50px; background-color: white; color: black; margin: 0px; border-bottom-style: solid; border-bottom-color: orange; border-width: 3px">
+            <div style="text-align: left">
+                <asp:Image runat="server" ImageUrl="~/Images/amit.png" Height="40px" />
+            </div>
+
+            <div class="PageHeader">
+                <label id="headerName" style="font-size: 30px" />
+            </div>
+
+            <div class="NavRightCorner">
+                <table class="NavTable">
+                    <tr>
+                        <td>
+                            <label id="lblUserID" style="margin-right: 16px" />
+                        </td>
+
+                        <td>
+                            <asp:LinkButton ID="link_logout" runat="server" CssClass="glyphicon glyphicon-off glyphstyle" ToolTip="Logout" OnClick="link_logout_Click" />
+                        </td>
+
+                        <td>
+                            <h5 class="h5"><%= DateTime.Now.ToString("dd- MMM- yyyy") %></h5>
+                            <h5 class="h5"><%= DateTime.Now.ToString("hh:mm:ss tt") %></h5>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+
+        <asp:UpdatePanel runat="server">
+            <ContentTemplate>
+                <div id="sidebar" class="sidenav" style="width: auto;">
+                    <ul class="sidebar1" style="margin-top: -10px;">
+                        <li id="limenu">
+                            <div class="toggle-btn">
+                                <span></span>
+                                <span></span>
+                                <span></span>
+                            </div>
+                        </li>
+
+
+                        <%----- Proposal ------%>
+
+                        <li id="li_pe" onclick="location.href='Proposal.aspx';"><a href="Proposal.aspx" class="glyphicon glyphicon-edit"></a>&nbsp;&nbsp;&nbsp;<a class="listStyle" href="Proposal.aspx">Proposal Entry</a></li>
+
+                        <%----- Project Management -----%>
+
+                        <li id="hassubmenu_prj" runat="server" onclick="#"><a href="#" class="glyphicon glyphicon-th-list"></a>&nbsp;&nbsp;&nbsp;<a class="listStyle" href="#">Project Management <span class="glyphicon glyphicon-triangle-bottom" /></a></li>
+
+                        <ul class="dropdown-container2">
+
+                            <%----- Projects  -----%>
+
+                            <li id="li_plist" runat="server" href="ProjectList.aspx" class="submenu"><a href="ProjectList.aspx" class="glyphicon glyphicon-th-list"></a>&nbsp;&nbsp;&nbsp;<a class="listStyle" href="ProjectList.aspx">Projects</a></li>
+
+                            <%----- Main Task -----%>
+
+                            <li id="li_task" class="submenu" onclick="location.href='Tasks.aspx';"><a href="Tasks.aspx" class="glyphicon glyphicon-file"></a>&nbsp;&nbsp;&nbsp;<a class="listStyle" href="Tasks.aspx">Main Task</a></li>
+
+                            <%----- Sub Task -----%>
+                       
+                            <li id="li_sbtask" class="submenu" onclick="location.href='Subtask1.aspx';"><a href="Subtask1.aspx" class="glyphicon glyphicon-duplicate"></a>&nbsp;&nbsp;&nbsp;<a class="listStyle" href="Subtask1.aspx">Sub Task </a></li>
+
+                            <%----- Time Entry -----%>
+
+                            <li id="li_sbtasktrans" class="submenu" onclick="location.href='STaskTransactionDetails.aspx';"><a href="STaskTransactionDetails.aspx" class="glyphicon glyphicon-paste"></a>&nbsp;&nbsp;&nbsp;<a class="listStyle" href="STaskTransactionDetails.aspx">Time Entry</a></li>
+
+                            <%-- Weekly Report --%>
+                            <li id="li_weekrep" class="submenu" onclick="location.href='WeeklyReport.aspx';"><a href="WeeklyReport.aspx" class="glyphicon glyphicon-modal-window"></a>&nbsp;&nbsp;&nbsp;<a class="listStyle" href="WeeklyReport.aspx">Weekly Report </a></li>
+
+                        </ul>
+
+                        <%----- Purchase Order ------%>
+
+                        <li id="li_po" onclick="location.href='PurchaseOrder.aspx';"><a href="PurchaseOrder.aspx" class="glyphicon glyphicon-shopping-cart"></a>&nbsp;&nbsp;&nbsp;<a class="listStyle" href="PurchaseOrder.aspx">Purchase Order</a></li>
+                        
+
+                        <%----- Import MJ data -----%>
+
+                        <li id="li_mj" runat="server" onclick="location.href='Import_MJData.aspx';"><a href="Import_MJData.aspx" class="glyphicon glyphicon-save-file"></a>&nbsp;&nbsp;&nbsp;<a class="listStyle" href="Import_MJData.aspx">Import MJ Data</a></li>
+
+                        <%----- Import Invoice -----%>
+
+                        <li id="li_inv" onclick="location.href='ImportInvoice.aspx';"><a href="ImportInvoice.aspx" class="glyphicon glyphicon-import"></a>&nbsp;&nbsp;&nbsp;<a class="listStyle" href="ImportInvoice.aspx">Import Invoice</a></li>
+
+                        <%----- Packing List -----%>
+
+                        <li id="hasdisubmenu" onclick="#"><a href="#" class="glyphicon glyphicon-share"></a>&nbsp;&nbsp;&nbsp;<a class="listStyle" href="#">Packing List &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="glyphicon glyphicon-triangle-bottom" /></a></li>
+
+                        <ul class="dropdown-container1">
+
+                            <%----- PO Associate -----%>
+                           
+                             <li id="li_POAssociate" href="POAssociate.aspx" class="submenu"><a href="POAssociate.aspx" class="glyphicon glyphicon-sound-dolby"></a>&nbsp;&nbsp;&nbsp;<a class="listStyle" href="POAssociate.aspx">PO Associate</a></li>
+
+                            <%----- BOM Details -----%>
+
+                              <li id="li_BOM" href="BOM_Details.aspx" class="submenu"><a href="BOM_Details.aspx" class="glyphicon glyphicon-inbox"></a>&nbsp;&nbsp;&nbsp;<a class="listStyle" href="BOM_Details.aspx">BOM Details</a></li>
+
+                            <%----- Item Master -----%>
+
+                             <li id="li_ItemMaster" href="ItemMasterDetails.aspx" class="submenu"><a href="ItemMasterDetails.aspx" class="glyphicon glyphicon-list-alt"></a>&nbsp;&nbsp;&nbsp;<a class="listStyle" href="ItemMasterDetails.aspx">Item Master Details</a></li>
+
+                            <%----- Kit Master -----%>
+
+                             <li id="li_KitMaster" href="Kit_Master_Details.aspx" class="submenu"><a href="Kit_Master_Details.aspx" class="glyphicon glyphicon-briefcase"></a>&nbsp;&nbsp;&nbsp;<a class="listStyle" href="Kit_Master_Details.aspx">Kit Master Details</a></li>
+
+                            <%----- Dispatch Product -----%>
+                            
+                            <li id="li_dis" href="DispatchProduct.aspx" class="submenu"><a href="DispatchProduct.aspx" class="glyphicon glyphicon-bed"></a>&nbsp;&nbsp;&nbsp;<a class="listStyle" href="DispatchProduct.aspx">Dispatch Details</a></li>
+                        </ul>
+
+                        <%----- Defect Tracker -----%>
+
+                        <li id="hassubmenu" runat="server" onclick="#"><a href="#" class="glyphicon glyphicon-asterisk"></a>&nbsp;&nbsp;&nbsp;<a class="listStyle" href="#">Defect Tracker &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="glyphicon glyphicon-triangle-bottom" /></a></li>
+
+                        <ul class="dropdown-container">
+
+                            <%----- Employee Dashboard -----%>
+
+                            <li id="li_dash" runat="server" href="Empdashboard.aspx" class="submenu"><a href="Empdashboard.aspx" class="glyphicon glyphicon-dashboard"></a>&nbsp;&nbsp;&nbsp;<a class="listStyle" href="Empdashboard.aspx">Dashboard </a></li>
+
+                            <%----- Internal Issues -----%>
+
+                            <li id="li_backlog_Internal" runat="server" href="ProjectBacklog_Internal.aspx" class="submenu"><a href="Internal_Issue.aspx" class="glyphicon glyphicon-th"></a>&nbsp;&nbsp;&nbsp;<a class="listStyle" href="Internal_Issue.aspx">Internal Issues</a></li>
+
+                            <%----- Customer Issues -----%>
+
+                            <li id="li_backlog_External" runat="server" href="ProjectBacklog.aspx" class="submenu"><a href="ProjectBacklog.aspx" class="glyphicon glyphicon-th"></a>&nbsp;&nbsp;&nbsp;<a class="listStyle" href="ProjectBacklog.aspx">Customer Site Issues</a></li>
+                        </ul>
+
+                        <%----- Master Screens -----%>
+
+                        <li id="hasmastermenu" runat="server" onclick="#"><a href="#" class="glyphicon glyphicon-th-list"></a>&nbsp;&nbsp;&nbsp;<a class="listStyle" href="#">Master Screens                   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="glyphicon glyphicon-triangle-bottom" /></a></li>
+
+                        <ul class="dropdown-container3">
+
+                            <%----- Employee Information -----%>
+
+                            <li id="li_emp" runat="server" class="submenu" onclick="location.href='Emp_Info.aspx';"><a href="Emp_Info.aspx" class="bi bi-people-fill"></a>&nbsp;&nbsp;&nbsp;<a class="listStyle" href="Emp_Info.aspx">Employee Details</a></li>
+
+                            <%----- Customer Information -----%>
+
+                            <li id="li_cust" runat="server" class="submenu" onclick="location.href='CustomerDetails.aspx';"><a href="CustomerDetails.aspx" class="glyphicon glyphicon-info-sign"></a>&nbsp;&nbsp;&nbsp;<a class="listStyle" href="CustomerDetails.aspx">Customer Details</a></li>
+
+                            <%----- Week Definition -----%>
+
+                            <li id="li_week" runat="server" class="submenu" onclick="location.href='WeekDefinition.aspx';"><a href="WeekDefinition.aspx" class="bi bi-calendar-week"></a>&nbsp;&nbsp;&nbsp;<a class="listStyle" href="WeekDefinition.aspx">Week Definition</a></li>
+
+                            <%----- PDT -----%>
+
+                            <li id="li_pdt" class="submenu" onclick="location.href='PlannedDownTime.aspx';"><a href="PlannedDownTime.aspx" class="glyphicon glyphicon-time"></a>&nbsp;&nbsp;&nbsp;<a class="listStyle" href="PlannedDownTime.aspx">PDT</a></li>
+                        </ul>
+                    </ul>
+                </div>
+
+                <asp:HiddenField runat="server" ID="hfVerticalScrollPos" ClientIDMode="Static" />
+                <asp:HiddenField runat="server" ID="hfHorizontalScrollPos" ClientIDMode="Static" />
+
+            </ContentTemplate>
+        </asp:UpdatePanel>
+
+        <div class="container-fluid body-content">
+            <section id="Maincontent" style="width: auto;">
+                <asp:ContentPlaceHolder ID="MainContent" runat="server">
+                </asp:ContentPlaceHolder>
+                <%: Scripts.Render("~/bundles/modernizr") %>
+            </section>
+        </div>
+
+        <%----- Warning Modal -----%>
+
+        <div class="modal fade add-edit-modal " id="warningModal" role="dialog" style="min-width: 300px;">
+            <div class="modal-dialog" style="width: 350px">
+                <div class="modal-content" style="border: 2px solid yellow">
+                    <div class="modal-header" style="border-bottom: 1px solid yellow; background-color: yellow;">
+                        <asp:Label class="modal-title" runat="server">Warning</asp:Label>
+                        <a data-dismiss="modal" class="glyphicon glyphicon-remove closeButton"></a>
+                    </div>
+                    <div class="modal-body">
+                        <span id="warningModalMsg" class="ConfirmText">Warning</span>
+                    </div>
+                    <div class="modal-footer" style="border-top: 1px solid yellow;">
+                        <input type="button" value="OK" class="btn AddEditBtn" data-dismiss="modal" />
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <%----- Error Modal -----%>
+
+        <div class="modal fade add-edit-modal " id="errorModal" role="dialog" style="min-width: 300px;">
+            <div class="modal-dialog" style="width: 350px">
+                <div class="modal-content" style="border: 2px solid red">
+                    <div class="modal-header" style="border-bottom: 1px solid red; background-color: red">
+
+                        <asp:Label class="modal-title" runat="server">Error</asp:Label>
+                        <a data-dismiss="modal" class="glyphicon glyphicon-remove closeButton"></a>
+                    </div>
+                    <div class="modal-body">
+                        <span id="errorModalMsg" class="ConfirmText">Warning</span>
+                    </div>
+                    <div class="modal-footer" style="border-top: 1px solid red">
+                        <input type="button" value="OK" class="btn AddEditBtn" data-dismiss="modal" />
+                    </div>
+                </div>
+            </div>
+        </div>
+    </form>
+
+    <%----- Scripts -----%>
+
+    <script type="text/javascript">
+
+        <%----- Handling Sidebar Menu Clicks -----%>
+        
+        $("#limenu").click(function () {
+            var widthMenu = $("#sidebar").width();
+            if (widthMenu == 190) {
+                document.getElementById("sidebar").classList.toggle("active");
+                $('#sidebar').width(50);
+                $(".listStyle").delay(200).hide(500);
+                $("#Maincontent").css("margin-left", "55px");
+                $(".dropdown-container").css("display", "none");
+                $("#Maincontent").css("width", "100%");
+                $("#Maincontent").css("transition", "all 500ms linear");
+            }
+            else {
+                document.getElementById("sidebar").classList.toggle("active");
+                $('#sidebar').width(190);
+                $(".listStyle").delay(200).show(500);
+                $("#Maincontent").css("margin-left", "190px");
+                $("#Maincontent").css("width", "89%");
+                $("#Maincontent").css("transition", "all 500ms linear");
+            }
+        });
+
+        $("#hassubmenu").click(function () {
+            if ($(".dropdown-container").css("display") === "block") {
+                $(".dropdown-container").delay(200).hide(500);
+                $("#submenu").css("transition", "all 500ms linear");
+            }
+            else {
+                $(".dropdown-container").delay(200).show(500);
+                $("#hassubmenu").css("border-bottom-color", "white");
+                $("#submenu").css("background-color", "lightgray");
+                $("#submenu").css("hover", "white");
+                $("#submenu").css("transition", "all 500ms linear");
+
+                if ($(".dropdown-container1").css("display") === "block") {
+                    $(".dropdown-container1").delay(200).hide(500);
+                }
+
+                if ($(".dropdown-container2").css("display") === "block") {
+                    $(".dropdown-container2").delay(200).hide(500);
+                }
+
+                if ($(".dropdown-container3").css("display") === "block") {
+                    $(".dropdown-container3").delay(200).hide(500);
+                }
+            }
+        });
+
+        $("#hassubmenu_prj").click(function () {
+            if ($(".dropdown-container2").css("display") === "block") {
+                $(".dropdown-container2").delay(200).hide(500);
+                $("#submenu").css("transition", "all 500ms linear");
+            }
+            else {
+                $(".dropdown-container2").delay(200).show(500);
+                $("#hassubmenu_prj").css("border-bottom-color", "white");
+                $("#submenu").css("background-color", "lightgray");
+                $("#submenu").css("hover", "white");
+                $("#submenu").css("transition", "all 500ms linear");
+
+                if ($(".dropdown-container").css("display") === "block") {
+                    $(".dropdown-container").delay(200).hide(500);
+                }
+
+                if ($(".dropdown-container1").css("display") === "block") {
+                    $(".dropdown-container1").delay(200).hide(500);
+                }
+
+                if ($(".dropdown-container3").css("display") === "block") {
+                    $(".dropdown-container3").delay(200).hide(500);
+                }
+            }
+        });
+
+        $("#hasmastermenu").click(function () {
+            if ($(".dropdown-container3").css("display") === "block") {
+                $(".dropdown-container3").delay(200).hide(500);
+                $("#submenu").css("transition", "all 500ms linear");
+            }
+            else {
+                $(".dropdown-container3").delay(200).show(500);
+                $("#hassubmenu").css("border-bottom-color", "white");
+                $("#submenu").css("background-color", "lightgray");
+                $("#submenu").css("hover", "white");
+                $("#submenu").css("transition", "all 500ms linear");
+
+                if ($(".dropdown-container").css("display") === "block") {
+                    $(".dropdown-container").delay(200).hide(500);
+                }
+
+                if ($(".dropdown-container1").css("display") === "block") {
+                    $(".dropdown-container1").delay(200).hide(500);
+                }
+
+                if ($(".dropdown-container2").css("display") === "block") {
+                    $(".dropdown-container2").delay(200).hide(500);
+                }
+            }
+        });
+
+        $("#hasdisubmenu").click(function () {
+            if ($(".dropdown-container1").css("display") === "block") {
+                $(".dropdown-container1").delay(200).hide(500);
+                $("#submenu").css("transition", "all 500ms linear");
+            }
+            else {
+                $(".dropdown-container1").delay(200).show(500);
+                $("#hasdisubmenu").css("border-bottom-color", "white");
+                $("#submenu").css("background-color", "lightgray");
+                $("#submenu").css("hover", "white");
+                $("#submenu").css("transition", "all 500ms linear");
+
+                if ($(".dropdown-container").css("display") === "block") {
+                    $(".dropdown-container").delay(200).hide(500);
+                }
+
+                if ($(".dropdown-container2").css("display") === "block") {
+                    $(".dropdown-container2").delay(200).hide(500);
+                }
+
+                if ($(".dropdown-container3").css("display") === "block") {
+                    $(".dropdown-container3").delay(200).hide(500);
+                }
+            }
+        });
+
+        <%----- Sidebar -----%>
+
+        function togglesidebarClick() {
+            document.getElementById("sidebar").classList.toggle("active");
+        }
+
+        var previousmenu;
+        var previosmenutext = "";
+        var currentmenu;
+
+        var currentmenutext;
+        $(window).resize(function () {
+            var h = $(".navbar-fixed-top").height();
+            console.log("tpop h" + h);
+            if (parseInt(h) > 61) {
+                $("#sidebar").css("margin-top", $(".navbar-fixed-top").height() / 2);
+            }
+            else {
+                $("#sidebar").css("margin-top", 0);
+            }
+        });
+
+        <%----- Maintain Scroll -----%>
+
+        let scrollMaintainDiv = document.getElementById('scrollMaintainDiv');
+        if (scrollMaintainDiv != null) {
+            scrollMaintainDiv.onscroll = function () {
+                $('[id*=hfVerticalScrollPos]').val(scrollMaintainDiv.scrollTop);
+                $('[id*=hfHorizontalScrollPos]').val(scrollMaintainDiv.scrollLeft);
+            }
+        };
+
+        window.onload = function () {
+            if (scrollMaintainDiv != null) {
+                scrollMaintainDiv.scrollTop = $('[id*=hfVerticalScrollPos]').val();
+                scrollMaintainDiv.scrollLeft = $('[id*=hfHorizontalScrollPos]').val();
+            }
+        };
+
+        $(document).ready(function () {
+            var widthMenu = $("#sidebar").width();
+            $("#Maincontent").css("margin-left", "190px");
+            $("#Maincontent").css("width", "89%");
+            if (scrollMaintainDiv != null) {
+                scrollMaintainDiv.scrollTop = $('[id*=hfVerticalScrollPos]').val();
+                scrollMaintainDiv.scrollLeft = $('[id*=hfHorizontalScrollPos]').val();
+            }
+        });
+        
+        <%----- HH Format -----%>
+
+        $(".allow-hh-format").keypress(function (evt) {
+            var charCode = (evt.which) ? evt.which : evt.keyCode;
+
+            if ((charCode < 48 || charCode > 57)) {
+                return false;
+            }
+    
+            if ($(this).val().length > 1) {
+                return false;
+            }
+
+            return true;
+        });
+
+        <%----- HH:mm Format -----%>
+
+        let keyPressed = false;
+
+        $(".allow-hh-mm-format").keypress(function (evt) {
+            var charCode = (evt.which) ? evt.which : evt.keyCode;
+            var pos = evt.target.selectionStart;
+
+            if ((charCode < 48 || charCode > 57)) {
+                return false;
+            }
+
+            if ($(this).val().length > 4) {
+                return false;
+            }
+
+            keyPressed = true;
+            console.log("press: pos - " + pos + ", length: " + $(this).val().length);
+
+            return true;
+        });
+
+        $(".allow-hh-mm-format").keyup(function (evt) {
+            var charCode = (evt.which) ? evt.which : evt.keyCode;
+            var pos = evt.target.selectionStart;
+
+            console.log("up: pos - " + pos + ", length: " + $(this).val().length);
+
+            let position = 2;
+
+            if ($(this).val().length >= 2 && !$(this).val().includes(":")) {
+                let value = [$(this).val().slice(0, position), ":", $(this).val().slice(position)].join('');
+                $(this).val(value);
+            }
+
+            if ($(this).val().length == 3 && $(this).val().includes(":")) {
+                $(this).val($(this).val().replace(":", ""));
+            }
+
+            if (keyPressed) {
+                keyPressed = false;
+            }
+
+            return true;
+        });
+
+        $(".allow-hh-mm-format").blur(function () {
+            let value = $(this).val().substring(0, 5);
+
+            if (value.length == 1) {
+                $(this).val("0" + value + ":00");
+            } else if (value.length == 2) {
+                $(this).val(value + ":00");
+            }
+            else if (value.length == 4 && value.includes(":")) {
+                $(this).val(value + "0");
+            } else {
+                $(this).val(value);
+            }
+        });
+
+        Sys.WebForms.PageRequestManager.getInstance().add_endRequest(function () {
+
+            <%----- Handling Sidebar Menu Click -----%>
+            $("#limenu").click(function () {
+                var widthMenu = $("#sidebar").width();
+                if (widthMenu == 190) {
+                    document.getElementById("sidebar").classList.toggle("active");
+                    $('#sidebar').width(55);
+                    $(".listStyle").delay(200).hide(500);
+                    $("#Maincontent").css("margin-left", "55px");
+                    $(".dropdown-container").css("display", "none");
+                    $("#Maincontent").css("width", "100%");
+                    $("#Maincontent").css("transition", "all 500ms linear");
+                } else {
+                    document.getElementById("sidebar").classList.toggle("active");
+                    $('#sidebar').width(190);
+                    $(".listStyle").delay(200).show(500);
+                    $("#Maincontent").css("margin-left", "190px");
+                    $("#Maincontent").css("width", "89%");
+                    $("#Maincontent").css("transition", "all 500ms linear");
+                }
+            });
+
+            $("#hassubmenu").click(function () {
+                if ($(".dropdown-container").css("display") === "block") {
+                    $(".dropdown-container").delay(200).hide(500);
+                    $("#submenu").css("transition", "all 500ms linear");
+                }
+                else {
+                    $(".dropdown-container").delay(200).show(500);
+                    $("#hassubmenu").css("border-bottom-color", "white");
+                    $("#submenu").css("background-color", "lightgray");
+                    $("#submenu").css("hover", "white");
+                    $("#submenu").css("transition", "all 500ms linear");
+
+                    if ($(".dropdown-container1").css("display") === "block") {
+                        $(".dropdown-container1").delay(200).hide(500);
+                    }
+
+                    if ($(".dropdown-container2").css("display") === "block") {
+                        $(".dropdown-container2").delay(200).hide(500);
+                    }
+
+                    if ($(".dropdown-container3").css("display") === "block") {
+                        $(".dropdown-container3").delay(200).hide(500);
+                    }
+                }
+            });
+
+            $("#hasmastermenu").click(function () {
+                if ($(".dropdown-container3").css("display") === "block") {
+                    $(".dropdown-container3").delay(200).hide(500);
+                    $("#submenu").css("transition", "all 500ms linear");
+                }
+                else {
+                    $(".dropdown-container3").delay(200).show(500);
+                    $("#hassubmenu").css("border-bottom-color", "white");
+                    $("#submenu").css("background-color", "lightgray");
+                    $("#submenu").css("hover", "white");
+                    $("#submenu").css("transition", "all 500ms linear");
+
+                    if ($(".dropdown-container").css("display") === "block") {
+                        $(".dropdown-container").delay(200).hide(500);
+                    }
+
+                    if ($(".dropdown-container1").css("display") === "block") {
+                        $(".dropdown-container1").delay(200).hide(500);
+                    }
+
+                    if ($(".dropdown-container2").css("display") === "block") {
+                        $(".dropdown-container2").delay(200).hide(500);
+                    }
+                }
+            });
+
+            $("#hasdisubmenu").click(function () {
+                if ($(".dropdown-container1").css("display") === "block") {
+                    $(".dropdown-container1").delay(200).hide(500);
+                    $("#submenu").css("transition", "all 500ms linear");
+                }
+                else {
+                    $(".dropdown-container1").delay(200).show(500);
+                    $("#hasdisubmenu").css("border-bottom-color", "white");
+                    $("#submenu").css("background-color", "lightgray");
+                    $("#submenu").css("hover", "white");
+                    $("#submenu").css("transition", "all 500ms linear");
+
+                    if ($(".dropdown-container").css("display") === "block") {
+                        $(".dropdown-container").delay(200).hide(500);
+                    }
+
+                    if ($(".dropdown-container2").css("display") === "block") {
+                        $(".dropdown-container2").delay(200).hide(500);
+                    }
+
+                    if ($(".dropdown-container3").css("display") === "block") {
+                        $(".dropdown-container3").delay(200).hide(500);
+                    }
+                }
+            });
+
+            $("#hassubmenu_prj").click(function () {
+                if ($(".dropdown-container2").css("display") === "block") {
+                    $(".dropdown-container2").delay(200).hide(500);
+                    $("#submenu").css("transition", "all 500ms linear");
+                }
+                else {
+                    $(".dropdown-container2").delay(200).show(500);
+                    $("#hassubmenu_prj").css("border-bottom-color", "white");
+                    $("#submenu").css("background-color", "lightgray");
+                    $("#submenu").css("hover", "white");
+                    $("#submenu").css("transition", "all 500ms linear");
+
+                    if ($(".dropdown-container").css("display") === "block") {
+                        $(".dropdown-container").delay(200).hide(500);
+                    }
+
+                    if ($(".dropdown-container1").css("display") === "block") {
+                        $(".dropdown-container1").delay(200).hide(500);
+                    }
+
+                    if ($(".dropdown-container3").css("display") === "block") {
+                        $(".dropdown-container3").delay(200).hide(500);
+                    }
+                }
+            });
+
+            <%----- Side Panel -----%>
+
+            function openNav() {
+                document.getElementById("myNav").style.width = "380px";
+                return false;
+            }
+
+            function closeNav() {
+                document.getElementById("myNav").style.width = "0%";
+                return false;
+            }
+
+            <%----- Maintain Scroll -----%>
+
+            let scrollMaintainDiv = document.getElementById('scrollMaintainDiv');
+
+            $(document).ready(function () {
+                if (scrollMaintainDiv != null) {
+                    scrollMaintainDiv.scrollTop = $('[id*=hfVerticalScrollPos]').val();
+                    scrollMaintainDiv.scrollLeft = $('[id*=hfHorizontalScrollPos]').val();
+                }
+            });
+
+            if (scrollMaintainDiv != null) {
+                scrollMaintainDiv.onscroll = function () {
+                    $('[id*=hfVerticalScrollPos]').val(scrollMaintainDiv.scrollTop);
+                    $('[id*=hfHorizontalScrollPos]').val(scrollMaintainDiv.scrollLeft);
+                }
+            };
+
+            window.onload = function () {
+                if (scrollMaintainDiv != null) {
+                    scrollMaintainDiv.scrollTop = $('[id*=hfVerticalScrollPos]').val();
+                    scrollMaintainDiv.scrollLeft = $('[id*=hfHorizontalScrollPos]').val();
+                }
+            };
+
+            <%----- HH Format -----%>
+
+            $(".allow-hh-format").keypress(function (evt) {
+                var charCode = (evt.which) ? evt.which : evt.keyCode;
+
+                if ((charCode < 48 || charCode > 57)) {
+                    return false;
+                }
+           
+                if ($(this).val().length > 1) {
+                    return false;
+                }
+
+                return true;
+            });
+
+            <%----- HH:mm Format -----%>
+
+            let keyPressed = false;
+
+            $(".allow-hh-mm-format").keypress(function (evt) {
+                var charCode = (evt.which) ? evt.which : evt.keyCode;
+                var pos = evt.target.selectionStart;
+
+                if ((charCode < 48 || charCode > 57)) {
+                    return false;
+                }
+
+                if ($(this).val().length > 4) {
+                    return false;
+                }
+
+                keyPressed = true;
+                console.log("press: pos - " + pos + ", length: " + $(this).val().length);
+
+                return true;
+            });
+
+            $(".allow-hh-mm-format").keyup(function (evt) {
+                var charCode = (evt.which) ? evt.which : evt.keyCode;
+                var pos = evt.target.selectionStart;
+
+                console.log("up: pos - " + pos + ", length: " + $(this).val().length);
+
+                let position = 2;
+
+                if ($(this).val().length >= 2 && !$(this).val().includes(":")) {
+                    let value = [$(this).val().slice(0, position), ":", $(this).val().slice(position)].join('');
+                    $(this).val(value);
+                }
+
+                if ($(this).val().length == 3 && $(this).val().includes(":")) {
+                    $(this).val($(this).val().replace(":", ""));
+                }
+
+                if (keyPressed) {
+                    keyPressed = false;
+                }
+
+                return true;
+            });
+
+            $(".allow-hh-mm-format").blur(function () {
+                let value = $(this).val().substring(0, 5);
+
+                if (value.length == 1) {
+                    $(this).val("0" + value + ":00");
+                } else if (value.length == 2) {
+                    $(this).val(value + ":00");
+                }
+                else if (value.length == 4 && value.includes(":")) {
+                    $(this).val(value + "0");
+                } else {
+                    $(this).val(value);
+                }
+            });
+
+            $(document).ready(function () {
+                var widthMenu = $("#sidebar").width();
+                $("#Maincontent").css("margin-left", "190px");
+                $("#Maincontent").css("width", "89%");
+                if (scrollMaintainDiv != null) {
+                    scrollMaintainDiv.scrollTop = $('[id*=hfVerticalScrollPos]').val();
+                    scrollMaintainDiv.scrollLeft = $('[id*=hfHorizontalScrollPos]').val();
+                }
+            });
+        });
+    </script>
+</body>
+</html>

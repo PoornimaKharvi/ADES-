@@ -1,0 +1,91 @@
+﻿2022-07-27 09:23:36:0297 : DEBUG - There is no row at position 13.
+2022-07-27 09:27:58:6552 : DEBUG - There is no row at position 13.
+2022-07-27 09:29:28:0310 : DEBUG - There is no row at position 13.
+2022-07-27 09:30:28:5106 : DEBUG - There is no row at position 13.
+2022-07-27 09:34:28:8577 : DEBUG - There is no row at position 13.
+2022-07-27 09:35:27:1757 : DEBUG - There is no row at position 13.
+2022-07-27 09:36:05:4357 : DEBUG - There is no row at position 13.
+2022-07-27 09:36:50:6078 : DEBUG - There is no row at position 13.
+2022-07-27 09:37:26:5313 : DEBUG - There is no row at position 13.
+2022-07-27 09:39:10:2984 : DEBUG - There is no row at position 13.
+2022-07-27 09:40:27:6548 : DEBUG - There is no row at position 13.
+2022-07-27 09:43:09:6138 : DEBUG - There is no row at position 13.
+2022-07-27 09:43:16:0621 : DEBUG - There is no row at position 13.
+2022-07-27 09:48:36:0985 : DEBUG - There is no row at position 13.
+2022-07-27 09:49:22:0634 : DEBUG - There is no row at position 13.
+2022-07-27 09:49:52:4641 : DEBUG - There is no row at position 13.
+2022-07-27 09:50:13:5245 : DEBUG - There is no row at position 13.
+2022-07-27 09:52:05:1823 : DEBUG - There is no row at position 13.
+2022-07-27 09:55:51:3668 : DEBUG - There is no row at position 13.
+2022-07-27 09:56:56:6278 : DEBUG - There is no row at position 13.
+2022-07-27 09:59:19:1276 : DEBUG - There is no row at position 13.
+2022-07-27 11:26:39:5041 : DEBUG - There is no row at position 15.
+2022-07-27 11:27:51:4377 : DEBUG - There is no row at position 15.
+2022-07-27 11:29:01:2461 : DEBUG - There is no row at position 15.
+2022-07-27 11:29:19:7454 : DEBUG - There is no row at position 15.
+2022-07-27 11:30:18:0254 : DEBUG - There is no row at position 15.
+2022-07-27 11:31:18:6695 : DEBUG - There is no row at position 15.
+2022-07-27 11:32:13:3111 : DEBUG - There is no row at position 15.
+2022-07-27 11:32:49:0567 : DEBUG - There is no row at position 15.
+2022-07-27 11:33:11:5346 : DEBUG - There is no row at position 15.
+2022-07-27 11:38:09:6944 : DEBUG - There is no row at position 15.
+2022-07-27 11:39:12:6696 : DEBUG - There is no row at position 15.
+2022-07-27 11:39:20:2479 : DEBUG - There is no row at position 15.
+2022-07-27 12:19:19:7771 : DEBUG - There is no row at position 15.
+2022-07-27 12:23:06:8505 : DEBUG - There is no row at position 15.
+2022-07-27 12:23:24:7652 : DEBUG - There is no row at position 15.
+2022-07-27 12:31:22:8962 : DEBUG - There is no row at position 15.
+2022-07-27 12:31:39:2010 : DEBUG - There is no row at position 15.
+2022-07-27 12:43:29:8390 : DEBUG - There is no row at position 15.
+2022-07-27 14:19:26:3075 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2022-07-27 14:20:26:4586 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2022-07-27 14:20:26:5123 : EXCEPTION - GetAutoCompleteData: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2022-07-27 14:21:45:4680 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2022-07-27 14:22:50:7439 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2022-07-27 14:22:50:8189 : EXCEPTION - getGeneralDropDownValueA network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2022-07-27 14:22:50:8809 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2022-07-27 14:24:15:7220 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2022-07-27 14:24:15:7914 : EXCEPTION - GetdataA network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2022-07-27 14:30:26:1426 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2022-07-27 14:30:32:0887 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2022-07-27 14:32:20:5200 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2022-07-27 14:32:20:6296 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2022-07-27 14:32:20:6726 : EXCEPTION - getStatusValues:A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2022-07-27 14:32:20:7565 : EXCEPTION - getStatusValues:A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2022-07-27 14:32:36:2251 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2022-07-27 14:33:13:8795 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2022-07-27 14:34:07:4414 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2022-07-27 14:34:07:5579 : EXCEPTION - Getdata:A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2022-07-27 14:34:24:4714 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2022-07-27 14:34:24:5357 : EXCEPTION - Getdata:A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2022-07-27 16:15:19:3462 : EXCEPTION - DownloadFileThe remote host closed the connection. The error code is 0x800704CD.
+2022-07-27 17:04:56:4018 : EXCEPTION - getGeneralDropDownValueObject reference not set to an instance of an object.
+2022-07-27 17:47:47:5839 : DEBUG - There is no row at position 16.
+2022-07-27 18:28:20:6468 : EXCEPTION - lbEdit_Click: 'ddlAddstatus' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+2022-07-27 18:28:22:7557 : EXCEPTION - lbEdit_Click: 'ddlAddstatus' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+2022-07-27 18:28:28:0797 : EXCEPTION - lbEdit_Click: 'ddlAddstatus' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+2022-07-27 18:28:48:3931 : EXCEPTION - lbEdit_Click: 'ddlAddstatus' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+2022-07-27 18:28:50:2177 : EXCEPTION - lbEdit_Click: 'ddlAddstatus' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+2022-07-27 18:28:52:5742 : EXCEPTION - lbEdit_Click: 'ddlAddstatus' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+2022-07-27 18:29:49:6364 : EXCEPTION - lbEdit_Click: 'ddlAddstatus' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+2022-07-27 18:29:50:4920 : EXCEPTION - lbEdit_Click: 'ddlAddstatus' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+2022-07-27 18:29:51:8801 : EXCEPTION - lbEdit_Click: 'ddlAddstatus' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+2022-07-27 18:31:02:5018 : EXCEPTION - lbEdit_Click: 'ddlAddstatus' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+2022-07-27 22:06:03:1441 : EXCEPTION - lbEdit_Click: 'ddlAddstatus' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+2022-07-27 22:07:45:5630 : EXCEPTION - lbEdit_Click: 'ddlAddstatus' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+2022-07-27 22:09:40:3778 : EXCEPTION - lbEdit_Click: 'ddlAddstatus' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+2022-07-27 22:10:15:7672 : EXCEPTION - lbEdit_Click: 'ddlAddstatus' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value

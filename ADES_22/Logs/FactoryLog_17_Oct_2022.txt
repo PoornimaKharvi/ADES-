@@ -1,0 +1,8 @@
+﻿2022-10-17 10:25:51:8938 : EXCEPTION - btnSave_ClickObject reference not set to an instance of an object.
+2022-10-17 10:42:48:8081 : EXCEPTION - lbEdit_Click'ddleditrequest' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+2022-10-17 12:20:20:8730 : EXCEPTION - SelectedsubtaskDataBinding: 'ADES_22.Model.Subtaskdetails' does not contain a property with the name 'Dependencies'.
+2022-10-17 12:53:00:3896 : EXCEPTION - Error in getAuditDateDetails - Incorrect syntax near the keyword 'order'.
+2022-10-17 13:59:37:6652 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-10-17 14:06:53:8496 : EXCEPTION - Error in getAuditDateDetails - Incorrect syntax near the keyword 'order'.
+2022-10-17 15:24:59:9631 : EXCEPTION - Error in getAuditDateDetails - Incorrect syntax near the keyword 'order'.

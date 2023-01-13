@@ -1,0 +1,88 @@
+﻿2022-09-13 10:45:25:0478 : EXCEPTION - getProjectID1Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-13 11:33:52:1007 : EXCEPTION - GetProjectIDListExecution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+2022-09-13 16:16:05:8879 : EXCEPTION - SendEmail: The SMTP server requires a secure connection or the client was not authenticated. The server response was: 5.7.0 Authentication Required. Learn more at
+2022-09-13 16:27:03:9247 : DEBUG - CheckSupLoginData: Name
+2022-09-13 16:27:18:5034 : DEBUG - CheckSupLoginData: Name
+2022-09-13 16:28:05:8788 : DEBUG - CheckSupLoginData: Name
+2022-09-13 16:28:18:9508 : DEBUG - CheckSupLoginData: Name
+2022-09-13 16:28:27:3917 : DEBUG - CheckSupLoginData: Name
+2022-09-13 16:29:14:9786 : DEBUG - CheckSupLoginData: Name
+2022-09-13 16:30:27:1137 : DEBUG - CheckSupLoginData: Name
+2022-09-13 16:33:38:9684 : DEBUG - CheckSupLoginData: Name
+2022-09-13 22:52:57:9825 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-09-13 22:53:59:0798 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-09-13 22:53:59:1533 : EXCEPTION - btnlogin_Click: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-09-13 22:57:53:6116 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-09-13 22:58:54:3993 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-09-13 22:58:54:4994 : EXCEPTION - getProjectid:A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-09-13 22:59:20:2994 : EXCEPTION - Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+2022-09-13 22:59:20:3074 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-09-13 22:59:20:8484 : EXCEPTION - Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+2022-09-13 23:00:20:6929 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-09-13 23:00:21:0049 : EXCEPTION - getProjectid:A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-09-13 23:00:21:0469 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-09-13 23:00:21:1729 : EXCEPTION - getProjectid:A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-09-13 23:00:21:2938 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-09-13 23:00:21:3578 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-09-13 23:00:21:9051 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-09-13 23:00:21:9871 : EXCEPTION - getProjectid:A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-09-13 23:00:22:0931 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-09-13 23:01:32:6749 : EXCEPTION - Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+2022-09-13 23:01:32:7616 : EXCEPTION - Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+2022-09-13 23:01:33:0718 : EXCEPTION - BtnView_click:Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+2022-09-13 23:01:33:0738 : EXCEPTION - BtnView_click:Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+2022-09-13 23:01:33:9021 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-09-13 23:01:34:0575 : EXCEPTION - BtnView_click:A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-09-13 23:04:02:6726 : EXCEPTION - getSubtaskentryMainTaskIDD
+2022-09-13 23:04:07:5237 : EXCEPTION - getProjectID1Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-13 23:09:21:5899 : EXCEPTION - getProjectID1Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-13 23:11:04:9918 : EXCEPTION - getProjectID1Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-13 23:18:55:0017 : EXCEPTION - getProjectID1Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-13 23:20:54:6746 : EXCEPTION - getProjectID1Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-13 23:25:11:4034 : EXCEPTION - getSubtaskentryMainTaskIDD
+2022-09-13 23:25:14:4764 : EXCEPTION - getProjectID1Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-13 23:26:13:8930 : EXCEPTION - getProjectID1Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-13 23:29:12:8092 : EXCEPTION - getProjectID1Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-13 23:30:49:4306 : EXCEPTION - getProjectID1Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-13 23:34:34:9436 : EXCEPTION - getProjectID1Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-13 23:35:43:0820 : EXCEPTION - getProjectID1Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-13 23:37:17:2621 : EXCEPTION - getProjectID1Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-13 23:37:48:9795 : EXCEPTION - getProjectID1Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-13 23:38:28:8278 : EXCEPTION - getSubtaskentryMainTaskIDD
+2022-09-13 23:38:31:3747 : EXCEPTION - getProjectID1Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-13 23:40:19:2398 : EXCEPTION - getProjectID1Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-13 23:40:56:2717 : EXCEPTION - getProjectID1Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-13 23:43:37:4782 : EXCEPTION - getProjectID1Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-13 23:43:57:9814 : EXCEPTION - getProjectID1Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-13 23:44:18:9249 : EXCEPTION - getProjectID1Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-13 23:46:11:6822 : EXCEPTION - getSubtaskentryMainTaskIDD
+2022-09-13 23:46:14:2852 : EXCEPTION - getProjectID1Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-13 23:46:42:7297 : EXCEPTION - getProjectID1Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-13 23:48:50:1812 : EXCEPTION - getProjectID1Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-13 23:49:37:7750 : EXCEPTION - getProjectID1Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-13 23:55:36:5813 : EXCEPTION - getProjectID1Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index

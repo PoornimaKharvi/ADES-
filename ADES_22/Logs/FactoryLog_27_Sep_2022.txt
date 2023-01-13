@@ -1,0 +1,6 @@
+﻿2022-09-27 10:24:04:8954 : EXCEPTION - BindTableListViewDataBinding: 'ADES_22.WeeklyReport' does not contain a property with the name 'TeamSize'.
+2022-09-27 10:26:57:0240 : EXCEPTION - BindTableListViewDataBinding: 'ADES_22.WeeklyReport' does not contain a property with the name 'TeamSize'.
+2022-09-27 10:46:01:0738 : EXCEPTION - BindListviewDataBinding: 'ADES_22.WeeklyReport' does not contain a property with the name 'TeamSize'.
+2022-09-27 11:05:14:1511 : EXCEPTION - BindListviewDataBinding: 'ADES_22.Model.SendMail' does not contain a property with the name 'isbodyhtml'.
+2022-09-27 14:43:29:8058 : EXCEPTION - BindListviewAn ItemTemplate must be defined on ListView 'listview2'.
+2022-09-27 14:59:40:0553 : EXCEPTION - BindListviewAn item placeholder must be specified on ListView 'listview2'. Specify an item placeholder by setting a control's ID property to "itemPlaceholder". The item placeholder control must also specify runat="server".

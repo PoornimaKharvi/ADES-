@@ -1,0 +1,16 @@
+﻿2022-08-26 12:40:25:2306 : EXCEPTION - GetProjectIdList1:Object reference not set to an instance of an object.
+2022-08-26 13:52:50:9171 : EXCEPTION - GetProjectIdList1:Object reference not set to an instance of an object.
+2022-08-26 14:03:52:5001 : EXCEPTION - GetProjectIdList1:Object reference not set to an instance of an object.
+2022-08-26 14:03:52:5851 : EXCEPTION - GetProjectIdList1:Object reference not set to an instance of an object.
+2022-08-26 14:09:58:7727 : EXCEPTION - GetProjectIdList1:Object reference not set to an instance of an object.
+2022-08-26 14:52:59:3507 : EXCEPTION - GetProjectIdList1:Object reference not set to an instance of an object.
+2022-08-26 15:42:31:8755 : EXCEPTION - Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=7666; handshake=25; 
+2022-08-26 16:37:18:8691 : EXCEPTION - GetProjectIdList1:Object reference not set to an instance of an object.
+2022-08-26 16:57:56:6355 : EXCEPTION - GetProjectIdList1:Object reference not set to an instance of an object.
+2022-08-26 17:00:26:1589 : EXCEPTION - GetProjectIdList1:Object reference not set to an instance of an object.
+2022-08-26 17:25:35:0267 : EXCEPTION - GetProjectIdList1:Object reference not set to an instance of an object.
+2022-08-26 17:39:05:2401 : EXCEPTION - GetProjectIdList1:Object reference not set to an instance of an object.
+2022-08-26 17:41:10:4646 : EXCEPTION - GetProjectIdList1:Object reference not set to an instance of an object.
+2022-08-26 17:41:16:0647 : EXCEPTION - GetProjectIdList1:Object reference not set to an instance of an object.
+2022-08-26 18:29:13:7981 : EXCEPTION - GetProjectIdList1:Object reference not set to an instance of an object.
+2022-08-26 18:29:13:8121 : EXCEPTION - GetProjectIdList1:Object reference not set to an instance of an object.

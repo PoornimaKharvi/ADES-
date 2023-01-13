@@ -1,0 +1,20 @@
+﻿2022-10-18 11:21:14:7333 : EXCEPTION - GetSubtaskentryDependencies
+2022-10-18 11:21:30:8830 : EXCEPTION - GetSubtaskentryDependencies
+2022-10-18 11:21:31:3825 : EXCEPTION - GetSubtaskentryDependencies
+2022-10-18 11:21:57:3553 : EXCEPTION - GetSubtaskentryDependencies
+2022-10-18 11:22:05:6198 : EXCEPTION - GetSubtaskentryDependencies
+2022-10-18 11:23:50:6506 : EXCEPTION - GetSubtaskentryDependencies
+2022-10-18 11:29:17:5671 : EXCEPTION - SaveSubTaskDetailsError converting data type nvarchar to datetime.
+2022-10-18 11:46:03:4524 : EXCEPTION - SaveSubTaskDetailsError converting data type nvarchar to datetime.
+2022-10-18 12:04:58:5091 : EXCEPTION - SaveSubTaskDetailsError converting data type nvarchar to datetime.
+2022-10-18 12:11:00:7468 : EXCEPTION - InsertTaskDetailsGridview:Error converting data type nvarchar to datetime.
+2022-10-18 16:53:11:7862 : EXCEPTION - SelectedsubtaskAn item placeholder must be specified on ListView 'lvSubtask'. Specify an item placeholder by setting a control's ID property to "placeHoldersubtask". The item placeholder control must also specify runat="server".
+2022-10-18 16:53:13:8609 : EXCEPTION - SelectedsubtaskAn item placeholder must be specified on ListView 'lvSubtask'. Specify an item placeholder by setting a control's ID property to "placeHoldersubtask". The item placeholder control must also specify runat="server".
+2022-10-18 16:53:21:9087 : EXCEPTION - SelectedsubtaskAn item placeholder must be specified on ListView 'lvSubtask'. Specify an item placeholder by setting a control's ID property to "placeHoldersubtask". The item placeholder control must also specify runat="server".
+2022-10-18 17:32:37:9008 : EXCEPTION - lbEdit_ClickObject reference not set to an instance of an object.
+2022-10-18 18:06:45:2664 : EXCEPTION - lbEdit_Click'ddleditrequest' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+2022-10-18 18:06:53:8889 : EXCEPTION - lbEdit_Click'ddleditrequest' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+2022-10-18 18:07:00:0712 : EXCEPTION - lbEdit_Click'ddleditrequest' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value

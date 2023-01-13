@@ -1,0 +1,14 @@
+﻿.bootstrap-datetimepicker-widget.dropdown-menu {
+    width: auto;
+}
+
+.timepicker-picker table td a span,
+.timepicker-picker table td,
+.timepicker-picker table td span {
+    height: 50px !important;
+    line-height: 50px !important;
+    vertical-align: middle;
+    width:70px !important;
+    padding: 5px !important;
+    overflow:unset;
+}

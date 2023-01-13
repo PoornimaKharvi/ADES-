@@ -1,0 +1,2 @@
+﻿2022-10-28 09:28:38:8002 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-10-28 17:31:55:0553 : EXCEPTION - BindListviewColumn 'SkippedTasks' does not belong to table .

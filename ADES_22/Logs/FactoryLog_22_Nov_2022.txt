@@ -1,0 +1,5 @@
+﻿2022-11-22 16:44:33:0742 : EXCEPTION - GetMaintaskValuesInvalid attempt to call Read when reader is closed.
+2022-11-22 16:46:32:9057 : EXCEPTION - GetMaintaskValuesInvalid attempt to call Read when reader is closed.
+2022-11-22 17:00:15:1672 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-22 17:00:22:0546 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-22 17:02:07:3652 : EXCEPTION - BindListviewColumn 'SkippedTasks' does not belong to table .

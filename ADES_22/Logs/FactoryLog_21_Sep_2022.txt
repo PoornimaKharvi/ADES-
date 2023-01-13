@@ -1,0 +1,53 @@
+﻿2022-09-21 09:14:45:6728 : EXCEPTION - btnAdd_Click:Databinding methods such as Eval(), XPath(), and Bind() can only be used in the context of a databound control.
+2022-09-21 09:15:12:3453 : EXCEPTION - btnAdd_Click:Databinding methods such as Eval(), XPath(), and Bind() can only be used in the context of a databound control.
+2022-09-21 09:38:31:4572 : EXCEPTION - btnAdd_Click:Databinding methods such as Eval(), XPath(), and Bind() can only be used in the context of a databound control.
+2022-09-21 09:41:01:2472 : EXCEPTION - btnAdd_Click:Databinding methods such as Eval(), XPath(), and Bind() can only be used in the context of a databound control.
+2022-09-21 12:01:08:3339 : EXCEPTION - saveConfirmYes_ServerClickObject reference not set to an instance of an object.
+2022-09-21 12:02:44:6182 : EXCEPTION - saveConfirmYes_ServerClickObject reference not set to an instance of an object.
+2022-09-21 12:07:31:2909 : EXCEPTION - saveConfirmYes_ServerClickObject reference not set to an instance of an object.
+2022-09-21 12:09:28:9556 : EXCEPTION - saveConfirmYes_ServerClickObject reference not set to an instance of an object.
+2022-09-21 12:10:32:6914 : EXCEPTION - saveConfirmYes_ServerClickObject reference not set to an instance of an object.
+2022-09-21 12:11:36:6984 : EXCEPTION - saveConfirmYes_ServerClickObject reference not set to an instance of an object.
+2022-09-21 12:13:50:4816 : EXCEPTION - saveConfirmYes_ServerClickObject reference not set to an instance of an object.
+2022-09-21 12:15:12:9725 : EXCEPTION - saveConfirmYes_ServerClickObject reference not set to an instance of an object.
+2022-09-21 12:22:43:5706 : EXCEPTION - saveConfirmYes_ServerClickObject reference not set to an instance of an object.
+2022-09-21 12:25:29:8646 : EXCEPTION - saveConfirmYes_ServerClickObject reference not set to an instance of an object.
+2022-09-21 12:26:25:1694 : EXCEPTION - saveConfirmYes_ServerClickObject reference not set to an instance of an object.
+2022-09-21 12:30:24:3482 : EXCEPTION - saveConfirmYes_ServerClickObject reference not set to an instance of an object.
+2022-09-21 16:49:12:5614 : EXCEPTION - GetMemberTaskDetailsMainTaskIDD
+2022-09-21 16:53:08:0937 : EXCEPTION - GetMemberTaskDetailsMainTaskIDD
+2022-09-21 16:54:35:9261 : EXCEPTION - GetMemberTaskDetailsMainTaskIDD
+2022-09-21 21:44:08:7104 : EXCEPTION - GetSubtaskentry@MainTaskIDD is not a parameter for procedure S_Get_Project_Tasks_Details.
+2022-09-21 21:46:10:4196 : EXCEPTION - GetSubtaskentry@MainTaskIDD is not a parameter for procedure S_Get_Project_Tasks_Details.
+2022-09-21 21:49:46:1780 : EXCEPTION - GetSubtaskentry@MainTaskIDD is not a parameter for procedure S_Get_Project_Tasks_Details.
+2022-09-21 21:51:46:2727 : EXCEPTION - GetSubtaskentry@MainTaskIDD is not a parameter for procedure S_Get_Project_Tasks_Details.
+2022-09-21 21:52:08:2721 : EXCEPTION - GetSubtaskentry@MainTaskIDD is not a parameter for procedure S_Get_Project_Tasks_Details.
+2022-09-21 21:52:49:9977 : EXCEPTION - GetSubtaskentry@MainTaskIDD is not a parameter for procedure S_Get_Project_Tasks_Details.
+2022-09-21 21:56:51:0573 : EXCEPTION - GetSubtaskentry@MainTaskIDD is not a parameter for procedure S_Get_Project_Tasks_Details.
+2022-09-21 21:57:03:5072 : EXCEPTION - GetSubtaskentry@MainTaskIDD is not a parameter for procedure S_Get_Project_Tasks_Details.
+2022-09-21 21:59:26:4254 : EXCEPTION - GetSubtaskentry@MainTaskIDD is not a parameter for procedure S_Get_Project_Tasks_Details.
+2022-09-21 22:02:12:6173 : EXCEPTION - GetSubtaskentry@MainTaskIDD is not a parameter for procedure S_Get_Project_Tasks_Details.
+2022-09-21 22:02:54:1912 : EXCEPTION - GetSubtaskentry@MainTaskIDD is not a parameter for procedure S_Get_Project_Tasks_Details.
+2022-09-21 22:05:34:5522 : EXCEPTION - GetSubtaskentry@MainTaskIDD is not a parameter for procedure S_Get_Project_Tasks_Details.
+2022-09-21 22:06:11:6047 : EXCEPTION - GetSubtaskentry@MainTaskIDD is not a parameter for procedure S_Get_Project_Tasks_Details.
+2022-09-21 22:14:46:1645 : EXCEPTION - GetSubtaskentry@MainTaskIDD is not a parameter for procedure S_Get_Project_Tasks_Details.
+2022-09-21 22:15:22:9766 : EXCEPTION - GetSubtaskentry@MainTaskIDD is not a parameter for procedure S_Get_Project_Tasks_Details.
+2022-09-21 22:16:12:0981 : EXCEPTION - GetSubtaskentry@MainTaskIDD is not a parameter for procedure S_Get_Project_Tasks_Details.
+2022-09-21 22:18:20:5653 : EXCEPTION - GetSubtaskentry@MainTaskIDD is not a parameter for procedure S_Get_Project_Tasks_Details.
+2022-09-21 22:20:33:2056 : EXCEPTION - GetSubtaskentry@MainTaskIDD is not a parameter for procedure S_Get_Project_Tasks_Details.
+2022-09-21 22:21:14:1649 : EXCEPTION - GetSubtaskentry@MainTaskIDD is not a parameter for procedure S_Get_Project_Tasks_Details.
+2022-09-21 22:21:47:4356 : EXCEPTION - GetSubtaskentry@MainTaskIDD is not a parameter for procedure S_Get_Project_Tasks_Details.
+2022-09-21 22:23:09:0630 : EXCEPTION - GetSubtaskentry@MainTaskIDD is not a parameter for procedure S_Get_Project_Tasks_Details.
+2022-09-21 22:24:01:8128 : EXCEPTION - GetSubtaskentry@MainTaskIDD is not a parameter for procedure S_Get_Project_Tasks_Details.
+2022-09-21 22:24:06:1281 : EXCEPTION - GetSubtaskentry@MainTaskIDD is not a parameter for procedure S_Get_Project_Tasks_Details.
+2022-09-21 22:24:21:4556 : EXCEPTION - GetSubtaskentry@MainTaskIDD is not a parameter for procedure S_Get_Project_Tasks_Details.
+2022-09-21 22:24:22:8733 : EXCEPTION - GetSubtaskentry@MainTaskIDD is not a parameter for procedure S_Get_Project_Tasks_Details.
+2022-09-21 22:24:23:3863 : EXCEPTION - GetSubtaskentry@MainTaskIDD is not a parameter for procedure S_Get_Project_Tasks_Details.
+2022-09-21 22:24:24:1063 : EXCEPTION - GetSubtaskentry@MainTaskIDD is not a parameter for procedure S_Get_Project_Tasks_Details.
+2022-09-21 22:24:24:5303 : EXCEPTION - GetSubtaskentry@MainTaskIDD is not a parameter for procedure S_Get_Project_Tasks_Details.
+2022-09-21 22:24:27:9061 : EXCEPTION - GetSubtaskentry@MainTaskIDD is not a parameter for procedure S_Get_Project_Tasks_Details.
+2022-09-21 22:25:02:5426 : EXCEPTION - GetSubtaskentry@MainTaskIDD is not a parameter for procedure S_Get_Project_Tasks_Details.
+2022-09-21 22:26:30:0660 : EXCEPTION - GetSubtaskentry@MainTaskIDD is not a parameter for procedure S_Get_Project_Tasks_Details.
+2022-09-21 23:13:47:7431 : EXCEPTION - GetSubtaskentry@MainTaskIDD is not a parameter for procedure S_Get_Project_Tasks_Details.
+2022-09-21 23:24:50:2538 : EXCEPTION - GetSubtaskentry@MainTaskIDD is not a parameter for procedure S_Get_Project_Tasks_Details.
+2022-09-21 23:35:23:9238 : EXCEPTION - GetSubtaskentry@MainTaskIDD is not a parameter for procedure S_Get_Project_Tasks_Details.

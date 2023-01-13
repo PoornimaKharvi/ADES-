@@ -1,0 +1,31 @@
+﻿2022-09-22 09:57:50:7845 : EXCEPTION - btnsave_clickObject reference not set to an instance of an object.
+2022-09-22 10:46:38:9571 : EXCEPTION - GetMemberTaskDetailsString or binary data would be truncated.
+The statement has been terminated.
+2022-09-22 10:47:58:2359 : EXCEPTION - GetMemberTaskDetailsString or binary data would be truncated.
+The statement has been terminated.
+2022-09-22 10:49:16:4467 : EXCEPTION - GetMemberTaskDetailsString or binary data would be truncated.
+The statement has been terminated.
+2022-09-22 11:05:36:3937 : EXCEPTION - GetMemberTaskDetailsString or binary data would be truncated.
+The statement has been terminated.
+2022-09-22 11:20:12:6481 : EXCEPTION - GetMemberTaskDetailsString or binary data would be truncated.
+The statement has been terminated.
+2022-09-22 11:32:54:2485 : EXCEPTION - GetMemberTaskDetailsString or binary data would be truncated.
+The statement has been terminated.
+2022-09-22 11:35:09:7431 : EXCEPTION - GetMemberTaskDetailsString or binary data would be truncated.
+The statement has been terminated.
+2022-09-22 11:37:42:2570 : EXCEPTION - GetMemberTaskDetailsString or binary data would be truncated.
+The statement has been terminated.
+2022-09-22 11:51:26:1619 : EXCEPTION - GetMemberTaskDetailsString or binary data would be truncated.
+The statement has been terminated.
+2022-09-22 11:52:40:0442 : EXCEPTION - GetMemberTaskDetailsString or binary data would be truncated.
+The statement has been terminated.
+2022-09-22 11:58:16:2998 : EXCEPTION - GetMemberTaskDetailsString or binary data would be truncated.
+The statement has been terminated.
+2022-09-22 12:13:51:0243 : EXCEPTION - GetMemberTaskDetailsString or binary data would be truncated.
+The statement has been terminated.
+2022-09-22 14:19:53:7089 : EXCEPTION - GetMemberTaskDetailsString or binary data would be truncated.
+The statement has been terminated.
+2022-09-22 14:26:38:6534 : EXCEPTION - GetMemberTaskDetailsString or binary data would be truncated.
+The statement has been terminated.
+2022-09-22 14:28:17:0794 : EXCEPTION - GetMemberTaskDetailsString or binary data would be truncated.
+The statement has been terminated.

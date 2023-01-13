@@ -1,0 +1,10 @@
+﻿2023-01-13 19:29:01:7165 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2023-01-13 19:29:10:1101 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2023-01-13 19:30:01:5648 : EXCEPTION - Not able to convert datetime string  to DateTime
+2023-01-13 19:30:01:5658 : EXCEPTION - Not able to convert datetime string  to DateTime
+2023-01-13 19:30:05:1932 : EXCEPTION - Not able to convert datetime string  to DateTime
+2023-01-13 19:30:05:1932 : EXCEPTION - Not able to convert datetime string  to DateTime
+2023-01-13 19:31:47:9354 : EXCEPTION - GetMaintaskValuesInvalid attempt to call Read when reader is closed.
+2023-01-13 19:33:00:8140 : EXCEPTION - GetMaintaskValuesInvalid attempt to call Read when reader is closed.
+2023-01-13 19:33:10:7836 : EXCEPTION - GetMaintaskValuesInvalid attempt to call Read when reader is closed.
+2023-01-13 19:34:11:9311 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.

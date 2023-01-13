@@ -1,0 +1,95 @@
+﻿2022-07-28 09:30:52:7805 : DEBUG - There is no row at position 16.
+2022-07-28 09:32:47:0440 : DEBUG - There is no row at position 16.
+2022-07-28 09:33:09:1068 : DEBUG - There is no row at position 16.
+2022-07-28 10:14:12:7935 : DEBUG - There is no row at position 17.
+2022-07-28 10:16:42:7446 : DEBUG - There is no row at position 17.
+2022-07-28 10:18:10:1538 : DEBUG - There is no row at position 17.
+2022-07-28 10:20:03:9177 : DEBUG - There is no row at position 17.
+2022-07-28 10:21:04:1188 : DEBUG - There is no row at position 17.
+2022-07-28 10:22:00:8307 : DEBUG - There is no row at position 17.
+2022-07-28 10:23:53:7486 : DEBUG - There is no row at position 17.
+2022-07-28 11:35:27:6744 : DEBUG - There is no row at position 17.
+2022-07-28 11:49:17:0673 : DEBUG - There is no row at position 17.
+2022-07-28 12:07:47:3505 : DEBUG - There is no row at position 17.
+2022-07-28 12:18:17:5164 : DEBUG - There is no row at position 17.
+2022-07-28 12:21:19:2700 : DEBUG - There is no row at position 17.
+2022-07-28 14:04:34:5828 : EXCEPTION - Login failed for user 'sa'.
+2022-07-28 14:05:34:9953 : EXCEPTION - Login failed for user 'sa'.
+2022-07-28 14:05:35:0638 : EXCEPTION - getGeneralDropDownValueLogin failed for user 'sa'.
+2022-07-28 14:05:35:1348 : EXCEPTION - Login failed for user 'sa'.
+2022-07-28 14:06:36:0107 : EXCEPTION - Login failed for user 'sa'.
+2022-07-28 14:06:36:1081 : EXCEPTION - GetdataLogin failed for user 'sa'.
+2022-07-28 14:09:01:8593 : EXCEPTION - Login failed for user 'sa'.
+2022-07-28 14:09:05:3027 : EXCEPTION - Login failed for user 'sa'.
+2022-07-28 14:10:02:4787 : EXCEPTION - Login failed for user 'sa'.
+2022-07-28 14:10:02:5287 : EXCEPTION - selectedProposalLogin failed for user 'sa'.
+2022-07-28 14:10:05:7237 : EXCEPTION - Login failed for user 'sa'.
+2022-07-28 14:10:05:8467 : EXCEPTION - getStatusValues:Login failed for user 'sa'.
+2022-07-28 14:10:06:1515 : EXCEPTION - Login failed for user 'sa'.
+2022-07-28 14:10:11:6397 : EXCEPTION - Login failed for user 'sa'.
+2022-07-28 14:10:14:0476 : EXCEPTION - Login failed for user 'sa'.
+2022-07-28 14:10:21:2832 : EXCEPTION - Login failed for user 'sa'.
+2022-07-28 14:10:21:3402 : EXCEPTION - Login failed for user 'sa'.
+2022-07-28 14:19:41:2272 : DEBUG - There is no row at position 2.
+2022-07-28 14:19:54:5200 : DEBUG - There is no row at position 2.
+2022-07-28 14:39:49:9776 : DEBUG - There is no row at position 2.
+2022-07-28 14:51:42:1566 : DEBUG - There is no row at position 2.
+2022-07-28 14:53:18:5430 : DEBUG - There is no row at position 2.
+2022-07-28 14:53:21:8491 : DEBUG - There is no row at position 2.
+2022-07-28 15:01:28:0193 : DEBUG - There is no row at position 2.
+2022-07-28 15:35:15:4795 : EXCEPTION - btnClear_Click'ddlRegion' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+2022-07-28 15:53:50:9184 : DEBUG - There is no row at position 2.
+2022-07-28 15:53:58:1861 : DEBUG - There is no row at position 2.
+2022-07-28 15:56:10:4679 : DEBUG - There is no row at position 2.
+2022-07-28 15:58:22:7828 : EXCEPTION - btnClear_Click'ddlRegion' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+2022-07-28 15:59:01:2231 : EXCEPTION - btnClear_Click'ddlRegion' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+2022-07-28 16:03:48:2716 : DEBUG - There is no row at position 2.
+2022-07-28 16:04:06:5196 : DEBUG - There is no row at position 2.
+2022-07-28 16:04:11:1283 : DEBUG - There is no row at position 2.
+2022-07-28 16:04:19:0519 : DEBUG - There is no row at position 2.
+2022-07-28 16:05:57:3953 : DEBUG - There is no row at position 2.
+2022-07-28 16:06:30:2256 : DEBUG - There is no row at position 2.
+2022-07-28 16:07:14:9183 : DEBUG - There is no row at position 2.
+2022-07-28 16:17:10:7314 : EXCEPTION - btnClear_Click'ddlRegion' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+2022-07-28 17:28:53:0849 : DEBUG - There is no row at position 3.
+2022-07-28 17:28:57:0183 : DEBUG - There is no row at position 3.
+2022-07-28 23:24:29:2728 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-07-28 23:25:30:2615 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-07-28 23:25:30:3185 : EXCEPTION - getGeneralDropDownValueA network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-07-28 23:25:30:3875 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-07-28 23:26:31:0429 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-07-28 23:26:31:1239 : EXCEPTION - GetdataA network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-07-28 23:30:20:4134 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-07-28 23:30:37:9681 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-07-28 23:31:25:8869 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-07-28 23:31:25:9629 : EXCEPTION - getStatusValues:A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-07-28 23:31:41:0262 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-07-28 23:31:41:1952 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-07-28 23:31:41:3782 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-07-28 23:31:41:4442 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-07-28 23:31:41:4452 : EXCEPTION - getStatusValues:A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-07-28 23:31:41:5242 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-07-28 23:32:50:4929 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-07-28 23:32:50:5757 : EXCEPTION - getStatusValues:A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-07-28 23:33:04:7581 : EXCEPTION - Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+2022-07-28 23:33:04:8629 : EXCEPTION - Getdata:Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+2022-07-28 23:33:04:8861 : EXCEPTION - Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+2022-07-28 23:33:05:0161 : EXCEPTION - Getdata:Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+2022-07-28 23:33:05:6721 : EXCEPTION - Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+2022-07-28 23:33:05:8637 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-07-28 23:33:05:9395 : EXCEPTION - getStatusValues:A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-07-28 23:33:06:0249 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-07-28 23:34:06:1066 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-07-28 23:34:06:2256 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-07-28 23:34:06:3396 : EXCEPTION - Getdata:A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-07-28 23:34:06:4256 : EXCEPTION - Getdata:A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-07-28 23:36:49:8988 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-07-28 23:38:04:0716 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-07-28 23:38:04:1446 : EXCEPTION - getGeneralDropDownValueA network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-07-28 23:38:04:2096 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-07-28 23:39:05:0618 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-07-28 23:39:05:1458 : EXCEPTION - GetdataA network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)

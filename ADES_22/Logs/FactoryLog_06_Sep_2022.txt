@@ -1,0 +1,37 @@
+﻿2022-09-06 13:53:43:1550 : EXCEPTION - saveConfirmYes_ServerClickIndex was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-06 14:52:06:7072 : EXCEPTION - btnsave_click:Input string was not in a correct format.
+2022-09-06 14:53:14:0443 : EXCEPTION - btnsave_click:Input string was not in a correct format.
+2022-09-06 14:53:52:6521 : EXCEPTION - btnsave_click:Input string was not in a correct format.
+2022-09-06 14:58:22:9092 : EXCEPTION - btnsave_click:Input string was not in a correct format.
+2022-09-06 15:01:49:9531 : EXCEPTION - btnsave_click:Input string was not in a correct format.
+2022-09-06 15:02:11:0587 : EXCEPTION - btnsave_click:Input string was not in a correct format.
+2022-09-06 15:04:30:5302 : EXCEPTION - btnsave_click:Input string was not in a correct format.
+2022-09-06 15:35:56:2160 : EXCEPTION - BtnSubtask_Click:Thread was being aborted.
+2022-09-06 15:35:56:8671 : EXCEPTION - BtnSubtask_Click:Thread was being aborted.
+2022-09-06 15:57:46:1213 : EXCEPTION - BtnSubtask_Click:Thread was being aborted.
+2022-09-06 15:58:49:4208 : EXCEPTION - BtnSubtask_Click:Thread was being aborted.
+2022-09-06 16:00:41:2438 : EXCEPTION - BtnSubtask_Click:Thread was being aborted.
+2022-09-06 16:02:38:5489 : EXCEPTION - BtnSubtask_Click:Thread was being aborted.
+2022-09-06 16:17:41:9282 : EXCEPTION - BtnSubtask_Click:Thread was being aborted.
+2022-09-06 16:18:43:7890 : EXCEPTION - BtnSubtask_Click:Thread was being aborted.
+2022-09-06 16:19:01:9059 : EXCEPTION - BtnSubtask_Click:Thread was being aborted.
+2022-09-06 16:19:03:9505 : EXCEPTION - BtnSubtask_Click:Thread was being aborted.
+2022-09-06 16:19:04:5380 : EXCEPTION - BtnSubtask_Click:Thread was being aborted.
+2022-09-06 16:19:20:6966 : EXCEPTION - BtnSubtask_Click:Thread was being aborted.
+2022-09-06 16:19:20:8671 : EXCEPTION - BtnSubtask_Click:Thread was being aborted.
+2022-09-06 16:19:31:4377 : EXCEPTION - BtnSubtask_Click:Thread was being aborted.
+2022-09-06 16:19:39:2886 : EXCEPTION - BtnSubtask_Click:Thread was being aborted.
+2022-09-06 16:19:40:4768 : EXCEPTION - BtnSubtask_Click:Thread was being aborted.
+2022-09-06 16:19:40:7565 : EXCEPTION - BtnSubtask_Click:Thread was being aborted.
+2022-09-06 16:20:01:2574 : EXCEPTION - BtnSubtask_Click:Thread was being aborted.
+2022-09-06 16:20:01:6464 : EXCEPTION - BtnSubtask_Click:Thread was being aborted.
+2022-09-06 16:20:02:0594 : EXCEPTION - BtnSubtask_Click:Thread was being aborted.
+2022-09-06 16:20:02:2793 : EXCEPTION - BtnSubtask_Click:Thread was being aborted.
+2022-09-06 16:20:02:3720 : EXCEPTION - BtnSubtask_Click:Thread was being aborted.
+2022-09-06 16:20:02:5537 : EXCEPTION - BtnSubtask_Click:Thread was being aborted.
+2022-09-06 16:20:02:7180 : EXCEPTION - BtnSubtask_Click:Thread was being aborted.
+2022-09-06 16:20:02:8816 : EXCEPTION - BtnSubtask_Click:Thread was being aborted.
+2022-09-06 16:20:03:0606 : EXCEPTION - BtnSubtask_Click:Thread was being aborted.
+2022-09-06 16:20:05:0719 : EXCEPTION - BtnSubtask_Click:Thread was being aborted.
+2022-09-06 17:00:59:1881 : EXCEPTION - BtnSubtask_Click:Thread was being aborted.

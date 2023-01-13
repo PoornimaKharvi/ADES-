@@ -1,0 +1,19 @@
+﻿2022-09-30 09:54:15:8648 : EXCEPTION - btnSave_ClickObject reference not set to an instance of an object.
+2022-09-30 10:59:53:0592 : EXCEPTION - btnSave_ClickObject reference not set to an instance of an object.
+2022-09-30 13:14:17:6352 : EXCEPTION - GetWeeklyReportTaskStatus
+2022-09-30 13:14:50:4421 : EXCEPTION - GetWeeklyReportTaskStatus
+2022-09-30 13:15:14:9658 : EXCEPTION - GetWeeklyReportTaskStatus
+2022-09-30 13:15:46:3152 : EXCEPTION - GetWeeklyReportTaskStatus
+2022-09-30 13:16:07:7576 : EXCEPTION - GetWeeklyReportTaskStatus
+2022-09-30 13:17:46:4211 : EXCEPTION - BindListviewObject reference not set to an instance of an object.
+2022-09-30 13:19:49:2799 : EXCEPTION - GetWeeklyReportTaskStatus
+2022-09-30 13:54:16:4272 : EXCEPTION - GetWeeklyReportTaskStatus
+2022-09-30 13:56:56:2552 : EXCEPTION - GetWeeklyReportTaskStatus
+2022-09-30 14:05:55:1627 : EXCEPTION - GetWeeklyReportTaskStatus
+2022-09-30 14:30:26:6004 : EXCEPTION - BindListviewObject reference not set to an instance of an object.
+2022-09-30 14:35:24:8675 : EXCEPTION - GetWeeklyReportTaskStatus
+2022-09-30 14:52:01:5600 : EXCEPTION - GetWeeklyReportTaskStatus
+2022-09-30 15:05:31:7629 : EXCEPTION - GetWeeklyReportTaskStatus
+2022-09-30 15:17:38:0181 : EXCEPTION - BindListviewObject reference not set to an instance of an object.
+2022-09-30 18:04:23:4836 : DEBUG - There is no row at position 6.
+2022-09-30 18:14:16:0850 : DEBUG - There is no row at position 6.

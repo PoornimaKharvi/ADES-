@@ -1,0 +1,41 @@
+﻿2022-09-28 10:55:41:5374 : EXCEPTION - GetManageranmesExecuteReader: Connection property has not been initialized.
+2022-09-28 13:33:21:0670 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-09-28 13:34:36:5858 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-09-28 13:41:38:1459 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-09-28 13:42:39:3832 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-09-28 13:42:40:4532 : EXCEPTION - btnlogin_Click: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-09-28 14:18:50:2575 : DEBUG - There is no row at position 10.
+2022-09-28 14:19:14:5516 : DEBUG - There is no row at position 10.
+2022-09-28 14:19:37:1225 : DEBUG - There is no row at position 10.
+2022-09-28 14:20:32:7530 : DEBUG - There is no row at position 10.
+2022-09-28 14:20:51:2683 : DEBUG - There is no row at position 10.
+2022-09-28 14:21:07:7176 : DEBUG - There is no row at position 10.
+2022-09-28 14:21:25:9686 : DEBUG - There is no row at position 10.
+2022-09-28 14:21:40:7853 : DEBUG - There is no row at position 10.
+2022-09-28 15:07:55:9290 : EXCEPTION - btnClear_Click'ddlkeyfield' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+2022-09-28 15:08:04:2562 : EXCEPTION - btnClear_Click'ddlkeyfield' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+2022-09-28 15:08:11:3623 : EXCEPTION - btnClear_Click'ddlkeyfield' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+2022-09-28 15:12:31:0589 : EXCEPTION - btnClear_Click'ddlkeyfield' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+2022-09-28 15:14:44:3284 : EXCEPTION - btnClear_Click'ddlkeyfield' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+2022-09-28 15:22:15:4739 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-09-28 15:22:15:4839 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-09-28 15:22:40:8856 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-09-28 15:23:15:4993 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-09-28 15:23:15:7493 : EXCEPTION - getGeneralDropDownValueA network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-09-28 15:23:16:4803 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-09-28 15:23:16:6163 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-09-28 15:23:16:7553 : EXCEPTION - getGeneralDropDownValueA network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-09-28 15:23:17:0563 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-09-28 15:29:29:5809 : EXCEPTION - btnClear_Click'ddlkeyfield' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+2022-09-28 15:30:21:7376 : EXCEPTION - btnClear_Click'ddlkeyfield' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+2022-09-28 16:01:35:4543 : EXCEPTION - btnClear_Click'ddlkeyfield' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+2022-09-28 16:02:30:9318 : EXCEPTION - btnClear_Click'ddlkeyfield' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value

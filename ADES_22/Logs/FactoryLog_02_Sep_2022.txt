@@ -1,0 +1,10 @@
+﻿2022-09-02 09:57:14:8586 : EXCEPTION - InsertTaskDetailsGridview1:Input string was not in a correct format.
+2022-09-02 11:12:35:4196 : EXCEPTION - InsertTaskDetailsGridview:Input string was not in a correct format.
+2022-09-02 11:29:19:0577 : EXCEPTION - btnsave_click:Input string was not in a correct format.
+2022-09-02 12:26:30:2530 : EXCEPTION - btnsave_click:Input string was not in a correct format.
+2022-09-02 15:24:02:9736 : EXCEPTION - InsertTaskDetailsGridview:Input string was not in a correct format.
+2022-09-02 16:49:58:4947 : EXCEPTION - BtnSubtask_Click:Thread was being aborted.
+2022-09-02 17:17:40:1506 : EXCEPTION - BtnSubtask_Click:Thread was being aborted.
+2022-09-02 17:33:12:0508 : EXCEPTION - BtnSubtask_Click:Thread was being aborted.
+2022-09-02 17:33:12:1520 : EXCEPTION - BtnSubtask_Click:Thread was being aborted.
+2022-09-02 17:53:10:5784 : EXCEPTION - BtnSubtask_Click:Thread was being aborted.

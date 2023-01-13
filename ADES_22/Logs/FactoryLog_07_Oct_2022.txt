@@ -1,0 +1,16 @@
+﻿2022-10-07 11:14:47:7256 : EXCEPTION - InsertWeeklyTaskReportAdding a value to a 'datetime' column caused an overflow.
+Adding a value to a 'datetime' column caused an overflow.
+2022-10-07 11:56:31:1790 : EXCEPTION - InsertWeeklyTaskReportAdding a value to a 'datetime' column caused an overflow.
+Adding a value to a 'datetime' column caused an overflow.
+2022-10-07 11:58:25:9216 : EXCEPTION - InsertWeeklyTaskReportAdding a value to a 'datetime' column caused an overflow.
+Adding a value to a 'datetime' column caused an overflow.
+2022-10-07 11:58:39:5066 : EXCEPTION - InsertWeeklyTaskReportAdding a value to a 'datetime' column caused an overflow.
+Adding a value to a 'datetime' column caused an overflow.
+2022-10-07 12:28:10:6686 : EXCEPTION - InsertWeeklyTaskReportAdding a value to a 'datetime' column caused an overflow.
+Adding a value to a 'datetime' column caused an overflow.
+2022-10-07 12:30:43:3638 : EXCEPTION - InsertWeeklyTaskReportAdding a value to a 'datetime' column caused an overflow.
+Adding a value to a 'datetime' column caused an overflow.
+2022-10-07 12:31:24:0833 : EXCEPTION - InsertWeeklyTaskReportAdding a value to a 'datetime' column caused an overflow.
+Adding a value to a 'datetime' column caused an overflow.
+2022-10-07 17:41:51:7428 : EXCEPTION - BindListviewColumn 'Task' does not belong to table .
+2022-10-07 17:47:14:6918 : EXCEPTION - BindListviewColumn 'Task' does not belong to table .

@@ -1,0 +1,158 @@
+﻿2022-09-14 09:17:11:5943 : EXCEPTION - btnlogin_Click: Keyword not supported: 'data source win10-test\mssql2017ent;initial catalog'.
+2022-09-14 09:18:11:9454 : EXCEPTION - btnlogin_Click: Keyword not supported: 'data source win10-test\mssql2017ent;initial catalog'.
+2022-09-14 09:19:58:1638 : EXCEPTION - btnlogin_Click: Keyword not supported: 'data source win10-test\mssql2017ent;initial catalog'.
+2022-09-14 09:20:02:5443 : EXCEPTION - btnlogin_Click: Keyword not supported: 'data source win10-test\mssql2017ent;initial catalog'.
+2022-09-14 09:20:08:4479 : EXCEPTION - btnlogin_Click: Keyword not supported: 'data source win10-test\mssql2017ent;initial catalog'.
+2022-09-14 09:20:22:5753 : EXCEPTION - btnlogin_Click: Keyword not supported: 'data source win10-test\mssql2017ent;initial catalog'.
+2022-09-14 09:20:30:1742 : EXCEPTION - btnlogin_Click: Keyword not supported: 'data source win10-test\mssql2017ent;initial catalog'.
+2022-09-14 09:20:38:9519 : EXCEPTION - btnlogin_Click: Keyword not supported: 'data source win10-test\mssql2017ent;initial catalog'.
+2022-09-14 09:21:23:2284 : EXCEPTION - btnlogin_Click: Keyword not supported: 'data source win10-test\mssql2017ent;initial catalog'.
+2022-09-14 09:25:49:5419 : EXCEPTION - InsertTaskTransDetailsParameter '@AssignedTo' was supplied multiple times.
+2022-09-14 09:25:50:1313 : EXCEPTION - InsertTaskTransDetailsParameter '@AssignedTo' was supplied multiple times.
+2022-09-14 09:25:50:2411 : EXCEPTION - InsertTaskTransDetailsParameter '@AssignedTo' was supplied multiple times.
+2022-09-14 09:25:51:1862 : EXCEPTION - InsertTaskTransDetailsParameter '@AssignedTo' was supplied multiple times.
+2022-09-14 09:25:51:5131 : EXCEPTION - InsertTaskTransDetailsParameter '@AssignedTo' was supplied multiple times.
+2022-09-14 09:25:51:7005 : EXCEPTION - InsertTaskTransDetailsParameter '@AssignedTo' was supplied multiple times.
+2022-09-14 09:27:31:9595 : EXCEPTION - InsertTaskTransDetailsParameter '@AssignedTo' was supplied multiple times.
+2022-09-14 09:27:43:9017 : EXCEPTION - InsertTaskTransDetailsParameter '@AssignedTo' was supplied multiple times.
+2022-09-14 09:27:45:9279 : EXCEPTION - InsertTaskTransDetailsParameter '@AssignedTo' was supplied multiple times.
+2022-09-14 09:27:58:9826 : EXCEPTION - InsertTaskTransDetailsParameter '@AssignedTo' was supplied multiple times.
+2022-09-14 09:27:59:0726 : EXCEPTION - InsertTaskTransDetailsParameter '@AssignedTo' was supplied multiple times.
+2022-09-14 09:27:59:1596 : EXCEPTION - InsertTaskTransDetailsParameter '@AssignedTo' was supplied multiple times.
+2022-09-14 09:28:04:2766 : EXCEPTION - InsertTaskTransDetailsParameter '@AssignedTo' was supplied multiple times.
+2022-09-14 09:28:04:3430 : EXCEPTION - InsertTaskTransDetailsParameter '@AssignedTo' was supplied multiple times.
+2022-09-14 09:28:04:4096 : EXCEPTION - InsertTaskTransDetailsParameter '@AssignedTo' was supplied multiple times.
+2022-09-14 09:33:34:1896 : EXCEPTION - InsertTaskTransDetailsParameter '@AssignedTo' was supplied multiple times.
+2022-09-14 09:33:34:4949 : EXCEPTION - InsertTaskTransDetailsParameter '@AssignedTo' was supplied multiple times.
+2022-09-14 09:33:34:6062 : EXCEPTION - InsertTaskTransDetailsParameter '@AssignedTo' was supplied multiple times.
+2022-09-14 09:45:56:5769 : EXCEPTION - InsertTaskTransDetailsParameter '@AssignedTo' was supplied multiple times.
+2022-09-14 09:45:57:8704 : EXCEPTION - InsertTaskTransDetailsParameter '@AssignedTo' was supplied multiple times.
+2022-09-14 09:46:02:0016 : EXCEPTION - InsertTaskTransDetailsParameter '@AssignedTo' was supplied multiple times.
+2022-09-14 09:46:51:0181 : EXCEPTION - InsertTaskTransDetailsParameter '@AssignedTo' was supplied multiple times.
+2022-09-14 09:50:05:7929 : EXCEPTION - InsertTaskTransDetailsParameter '@AssignedTo' was supplied multiple times.
+2022-09-14 09:50:05:9276 : EXCEPTION - InsertTaskTransDetailsParameter '@AssignedTo' was supplied multiple times.
+2022-09-14 10:09:48:0925 : EXCEPTION - InsertTaskTransDetailsParameter '@AssignedTo' was supplied multiple times.
+2022-09-14 10:09:48:2003 : EXCEPTION - InsertTaskTransDetailsParameter '@AssignedTo' was supplied multiple times.
+2022-09-14 10:09:48:3280 : EXCEPTION - InsertTaskTransDetailsParameter '@AssignedTo' was supplied multiple times.
+2022-09-14 10:18:14:7923 : EXCEPTION - InsertTaskTransDetailsParameter '@AssignedTo' was supplied multiple times.
+2022-09-14 10:18:15:6518 : EXCEPTION - InsertTaskTransDetailsParameter '@AssignedTo' was supplied multiple times.
+2022-09-14 10:18:15:9248 : EXCEPTION - InsertTaskTransDetailsParameter '@AssignedTo' was supplied multiple times.
+2022-09-14 11:36:55:3369 : EXCEPTION - getProjectID1Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-14 11:37:46:3412 : EXCEPTION - getProjectID1Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-14 14:56:46:7077 : EXCEPTION - getProjectID1Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-14 15:22:13:1493 : EXCEPTION - lbEdit_Click:Object reference not set to an instance of an object.
+2022-09-14 15:36:37:2303 : EXCEPTION - getProjectID1Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-14 15:37:56:9652 : EXCEPTION - getProjectID1Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-14 15:38:57:7165 : EXCEPTION - getProjectID1Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-14 15:39:26:6525 : EXCEPTION - getProjectID1Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-14 15:40:00:7636 : EXCEPTION - getProjectID1Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-14 15:41:29:0244 : EXCEPTION - getProjectID1Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-14 15:42:35:2803 : EXCEPTION - getProjectID1Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-14 15:44:25:8328 : EXCEPTION - getProjectID1Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-14 15:45:21:3173 : EXCEPTION - getProjectID1Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-14 15:47:16:5414 : EXCEPTION - getProjectID1Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-14 15:49:06:0876 : EXCEPTION - getProjectID1Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-14 15:49:28:1530 : EXCEPTION - getProjectID1Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-14 15:49:52:5540 : EXCEPTION - getProjectID1Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-14 15:53:16:4242 : EXCEPTION - getProjectID1Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-14 15:53:30:5915 : EXCEPTION - getProjectID1Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-14 15:54:43:3778 : EXCEPTION - getProjectID1Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-14 15:56:15:0347 : EXCEPTION - getProjectID1Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-14 15:56:27:4356 : EXCEPTION - getProjectID1Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-14 15:59:31:6582 : EXCEPTION - getProjectID1Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-14 16:06:41:9828 : EXCEPTION - getProjectID1Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-14 16:39:27:0085 : EXCEPTION - getProjectID1Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-14 16:44:25:6230 : EXCEPTION - getProjectID1Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-14 16:44:57:7395 : EXCEPTION - getProjectID1Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-14 16:45:06:8083 : EXCEPTION - getProjectID1Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-14 16:45:41:6851 : EXCEPTION - getProjectID1Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-14 16:46:03:0495 : EXCEPTION - getProjectID1Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-14 16:46:30:9474 : EXCEPTION - getProjectID1Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-14 17:02:13:0855 : EXCEPTION - InsertTaskTransDetailsError converting data type nvarchar to float.
+2022-09-14 17:02:13:3035 : EXCEPTION - InsertTaskTransDetailsError converting data type nvarchar to float.
+2022-09-14 17:02:13:4051 : EXCEPTION - InsertTaskTransDetailsError converting data type nvarchar to float.
+2022-09-14 17:02:13:5031 : EXCEPTION - InsertTaskTransDetailsError converting data type nvarchar to float.
+2022-09-14 17:02:36:3012 : EXCEPTION - InsertTaskTransDetailsError converting data type nvarchar to float.
+2022-09-14 17:02:36:4732 : EXCEPTION - InsertTaskTransDetailsError converting data type nvarchar to float.
+2022-09-14 17:02:36:5474 : EXCEPTION - InsertTaskTransDetailsError converting data type nvarchar to float.
+2022-09-14 17:02:36:6484 : EXCEPTION - InsertTaskTransDetailsError converting data type nvarchar to float.
+2022-09-14 17:02:37:4346 : EXCEPTION - InsertTaskTransDetailsError converting data type nvarchar to float.
+2022-09-14 17:02:37:5071 : EXCEPTION - InsertTaskTransDetailsError converting data type nvarchar to float.
+2022-09-14 17:02:37:5963 : EXCEPTION - InsertTaskTransDetailsError converting data type nvarchar to float.
+2022-09-14 17:02:37:6897 : EXCEPTION - InsertTaskTransDetailsError converting data type nvarchar to float.
+2022-09-14 17:04:57:9464 : EXCEPTION - InsertTaskTransDetailsError converting data type nvarchar to float.
+2022-09-14 17:10:07:9682 : EXCEPTION - InsertTaskTransDetailsError converting data type nvarchar to float.
+2022-09-14 17:11:18:2443 : EXCEPTION - Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=63997; handshake=52233; 
+2022-09-14 17:11:22:6139 : EXCEPTION - Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=63997; handshake=52233; 
+2022-09-14 17:19:08:3169 : EXCEPTION - InsertTaskTransDetailsError converting data type nvarchar to float.
+2022-09-14 17:19:13:0479 : EXCEPTION - InsertTaskTransDetailsInput string was not in a correct format.
+2022-09-14 17:19:14:4528 : EXCEPTION - InsertTaskTransDetailsInput string was not in a correct format.
+2022-09-14 17:19:14:6608 : EXCEPTION - InsertTaskTransDetailsInput string was not in a correct format.
+2022-09-14 17:19:41:1770 : EXCEPTION - InsertTaskTransDetailsInput string was not in a correct format.
+2022-09-14 17:19:41:3600 : EXCEPTION - InsertTaskTransDetailsInput string was not in a correct format.
+2022-09-14 17:19:41:6230 : EXCEPTION - InsertTaskTransDetailsInput string was not in a correct format.
+2022-09-14 17:19:41:8460 : EXCEPTION - InsertTaskTransDetailsInput string was not in a correct format.
+2022-09-14 17:19:50:3981 : EXCEPTION - InsertTaskTransDetailsInput string was not in a correct format.
+2022-09-14 17:19:50:4611 : EXCEPTION - InsertTaskTransDetailsInput string was not in a correct format.
+2022-09-14 17:19:50:6131 : EXCEPTION - InsertTaskTransDetailsInput string was not in a correct format.
+2022-09-14 17:19:50:6761 : EXCEPTION - InsertTaskTransDetailsInput string was not in a correct format.
+2022-09-14 17:19:51:5380 : EXCEPTION - InsertTaskTransDetailsInput string was not in a correct format.
+2022-09-14 17:19:51:6270 : EXCEPTION - InsertTaskTransDetailsInput string was not in a correct format.
+2022-09-14 17:19:51:7260 : EXCEPTION - InsertTaskTransDetailsInput string was not in a correct format.
+2022-09-14 17:19:51:8360 : EXCEPTION - InsertTaskTransDetailsInput string was not in a correct format.
+2022-09-14 17:19:51:9060 : EXCEPTION - InsertTaskTransDetailsInput string was not in a correct format.
+2022-09-14 17:19:51:9780 : EXCEPTION - InsertTaskTransDetailsInput string was not in a correct format.
+2022-09-14 17:19:52:0410 : EXCEPTION - InsertTaskTransDetailsInput string was not in a correct format.
+2022-09-14 17:19:52:2650 : EXCEPTION - InsertTaskTransDetailsInput string was not in a correct format.
+2022-09-14 17:25:57:9893 : EXCEPTION - InsertTaskTransDetailsInput string was not in a correct format.
+2022-09-14 17:25:58:4535 : EXCEPTION - InsertTaskTransDetailsInput string was not in a correct format.
+2022-09-14 17:25:58:6928 : EXCEPTION - InsertTaskTransDetailsInput string was not in a correct format.
+2022-09-14 17:25:58:9197 : EXCEPTION - InsertTaskTransDetailsInput string was not in a correct format.
+2022-09-14 17:26:00:3329 : EXCEPTION - InsertTaskTransDetailsInput string was not in a correct format.
+2022-09-14 17:26:00:3809 : EXCEPTION - InsertTaskTransDetailsInput string was not in a correct format.
+2022-09-14 17:26:00:4279 : EXCEPTION - InsertTaskTransDetailsInput string was not in a correct format.
+2022-09-14 17:26:00:4849 : EXCEPTION - InsertTaskTransDetailsInput string was not in a correct format.
+2022-09-14 20:11:49:0902 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-09-14 20:12:51:7849 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-09-14 20:12:52:5589 : EXCEPTION - getProjectid:A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-09-14 20:18:42:2118 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-09-14 20:19:43:0802 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-09-14 20:19:43:1472 : EXCEPTION - getProjectid:A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-09-14 20:20:14:9459 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-09-14 20:20:16:2018 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-09-14 20:21:15:5591 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-09-14 20:21:15:6028 : EXCEPTION - getProjectid:A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-09-14 20:21:16:5977 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-09-14 20:21:16:6381 : EXCEPTION - getProjectid:A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-09-14 21:52:29:8182 : EXCEPTION - getSubtaskentryMainTaskIDD
+2022-09-14 23:22:06:8654 : EXCEPTION - BindGridview3:Input string was not in a correct format.

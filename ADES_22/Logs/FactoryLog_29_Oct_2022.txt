@@ -1,0 +1,5 @@
+﻿2022-10-29 17:53:22:2485 : EXCEPTION - GetWeekNumbersInvalid column name 'Year'.
+2022-10-29 17:55:07:1383 : EXCEPTION - GetEmployeeemaildetailsThe parameterized query '(@AssignedTo nvarchar(4000))select * from Employee_Information w' expects the parameter '@AssignedTo', which was not supplied.
+2022-10-29 17:55:07:2027 : EXCEPTION - InsertEmailDetails: The parameterized query '(@From nvarchar(54),@To nvarchar(4000),@BodyMsg nvarchar(148),@R' expects the parameter '@To', which was not supplied.
+2022-10-29 18:13:01:7616 : EXCEPTION - GetEmployeeemaildetailsThe parameterized query '(@AssignedTo nvarchar(4000))select * from Employee_Information w' expects the parameter '@AssignedTo', which was not supplied.
+2022-10-29 18:13:01:8122 : EXCEPTION - InsertEmailDetails: The parameterized query '(@From nvarchar(54),@To nvarchar(4000),@BodyMsg nvarchar(139),@R' expects the parameter '@To', which was not supplied.

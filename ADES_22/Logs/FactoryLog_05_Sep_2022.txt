@@ -1,0 +1,8 @@
+﻿2022-09-05 11:57:59:5707 : EXCEPTION - btnsave_click:Input string was not in a correct format.
+2022-09-05 11:58:39:6775 : EXCEPTION - btnsave_click:Input string was not in a correct format.
+2022-09-05 11:59:45:2777 : EXCEPTION - btnsave_click:Input string was not in a correct format.
+2022-09-05 12:17:07:3599 : EXCEPTION - BtnSubtask_Click:Thread was being aborted.
+2022-09-05 12:17:07:6724 : EXCEPTION - BtnSubtask_Click:Thread was being aborted.
+2022-09-05 12:43:13:4623 : EXCEPTION - BtnSubtask_Click:Thread was being aborted.
+2022-09-05 15:39:35:2763 : EXCEPTION - BtnSubtask_Click:Thread was being aborted.
+2022-09-05 15:39:35:9133 : EXCEPTION - BtnSubtask_Click:Thread was being aborted.

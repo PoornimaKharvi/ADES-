@@ -1,0 +1,86 @@
+﻿2022-09-19 09:17:39:0532 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-09-19 09:17:39:0562 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-09-19 09:18:40:0197 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-09-19 09:18:40:0447 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-09-19 09:18:40:1247 : EXCEPTION - btnlogin_Click: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-09-19 09:18:40:1517 : EXCEPTION - btnlogin_Click: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-09-19 12:42:28:5764 : EXCEPTION - Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=1129; handshake=6340; 
+2022-09-19 15:14:23:3497 : EXCEPTION - getStatusValues1:'ddladdtallypono' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+2022-09-19 15:14:23:4281 : DEBUG - There is no row at position 5.
+2022-09-19 15:14:40:3551 : EXCEPTION - getStatusValues1:'ddladdtallypono' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+2022-09-19 15:14:40:4068 : DEBUG - There is no row at position 5.
+2022-09-19 15:17:40:6462 : DEBUG - There is no row at position 5.
+2022-09-19 15:17:56:6393 : DEBUG - There is no row at position 5.
+2022-09-19 15:18:18:1010 : DEBUG - There is no row at position 5.
+2022-09-19 18:42:15:7043 : EXCEPTION - BtnAdd_Click:Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-19 18:42:23:1556 : EXCEPTION - BtnAdd_Click:Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-19 18:42:25:3774 : EXCEPTION - BtnAdd_Click:Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-19 18:42:25:4997 : EXCEPTION - BtnAdd_Click:Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-19 18:42:44:4701 : EXCEPTION - BtnAdd_Click:Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-19 18:42:45:4347 : EXCEPTION - BtnAdd_Click:Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-19 18:42:45:8762 : EXCEPTION - BtnAdd_Click:Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-19 18:43:09:7893 : EXCEPTION - BtnAdd_Click:Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-19 18:43:15:6454 : EXCEPTION - BtnAdd_Click:Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-19 18:45:44:3044 : EXCEPTION - BtnAdd_Click:Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-19 18:46:51:2200 : EXCEPTION - BtnAdd_Click:Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-19 20:34:27:2243 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-09-19 20:35:28:3231 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-09-19 20:35:29:3941 : EXCEPTION - BindProjectId:A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-09-19 20:40:04:9806 : EXCEPTION - ErrorExecution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+2022-09-19 20:40:05:9876 : EXCEPTION - ErrorExecution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+2022-09-19 20:40:06:9916 : EXCEPTION - ErrorExecution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+2022-09-19 20:44:58:5542 : EXCEPTION - BtnAdd_Click:Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-19 20:44:58:5962 : EXCEPTION - BtnAdd_Click:Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-19 20:47:02:3887 : EXCEPTION - BtnAdd_Click:Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-19 20:47:06:7516 : EXCEPTION - BtnAdd_Click:Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-19 20:47:18:5335 : EXCEPTION - BtnAdd_Click:Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-19 20:47:19:5900 : EXCEPTION - BtnAdd_Click:Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-19 20:47:20:1430 : EXCEPTION - BtnAdd_Click:Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-19 20:47:20:6136 : EXCEPTION - BtnAdd_Click:Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-19 20:47:20:6916 : EXCEPTION - BtnAdd_Click:Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-19 20:47:29:6361 : EXCEPTION - BtnAdd_Click:Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-19 20:47:30:6421 : EXCEPTION - BtnAdd_Click:Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-19 20:47:31:4487 : EXCEPTION - BtnAdd_Click:Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-19 20:47:32:6588 : EXCEPTION - BtnAdd_Click:Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-19 20:47:32:7273 : EXCEPTION - BtnAdd_Click:Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-19 20:48:00:3717 : EXCEPTION - BtnAdd_Click:Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-19 20:49:18:0787 : EXCEPTION - BtnAdd_Click:Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-19 20:50:16:5476 : EXCEPTION - BtnAdd_Click:Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-19 20:51:05:3527 : EXCEPTION - BtnAdd_Click:Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-19 20:51:38:5608 : EXCEPTION - BtnAdd_Click:Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-19 21:10:51:6756 : EXCEPTION - RowsNumber_changed:Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-19 21:11:36:4488 : EXCEPTION - RowsNumber_changed:Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index

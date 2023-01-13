@@ -1,0 +1,17 @@
+﻿2022-09-07 10:45:22:3368 : EXCEPTION - Object reference not set to an instance of an object.
+2022-09-07 10:45:24:8086 : EXCEPTION - Object reference not set to an instance of an object.
+2022-09-07 10:45:28:1480 : EXCEPTION - Object reference not set to an instance of an object.
+2022-09-07 10:46:41:9242 : EXCEPTION - Object reference not set to an instance of an object.
+2022-09-07 11:50:19:2912 : EXCEPTION - Object reference not set to an instance of an object.
+2022-09-07 12:34:20:5107 : EXCEPTION - Input string was not in a correct format.
+2022-09-07 12:37:55:3811 : EXCEPTION - Input string was not in a correct format.
+2022-09-07 13:15:30:5011 : EXCEPTION - BtnSubtask_Click:Thread was being aborted.
+2022-09-07 13:15:31:2414 : EXCEPTION - BtnSubtask_Click:Thread was being aborted.
+2022-09-07 17:22:58:3816 : EXCEPTION - Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-07 17:24:16:3485 : EXCEPTION - Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-07 17:24:21:8433 : EXCEPTION - Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-09-07 17:24:30:1094 : EXCEPTION - Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index

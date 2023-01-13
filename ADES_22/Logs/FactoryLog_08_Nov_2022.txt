@@ -1,0 +1,79 @@
+﻿2022-11-08 09:41:19:4737 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-08 09:41:22:6104 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-08 09:41:24:7739 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-08 10:00:16:3141 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-08 10:03:43:0621 : EXCEPTION - GetMemberTaskDetailsCannot perform runtime binding on a null reference
+2022-11-08 11:10:51:9193 : EXCEPTION - GetSubtaskentryIncorrect syntax near ')'.
+2022-11-08 11:10:52:8741 : EXCEPTION - GetSubtaskentryIncorrect syntax near ')'.
+2022-11-08 11:11:11:1684 : EXCEPTION - GetSubtaskentryIncorrect syntax near ')'.
+2022-11-08 11:11:38:9893 : EXCEPTION - GetSubtaskentryIncorrect syntax near ')'.
+2022-11-08 11:13:41:4622 : EXCEPTION - GetSubtaskentryIncorrect syntax near ')'.
+2022-11-08 11:24:21:0810 : EXCEPTION - GetSubtaskentryIncorrect syntax near ')'.
+2022-11-08 11:24:21:4153 : EXCEPTION - A connection was successfully established with the server, but then an error occurred during the login process. (provider: TCP Provider, error: 0 - An existing connection was forcibly closed by the remote host.)
+2022-11-08 11:24:24:8369 : EXCEPTION - A connection was successfully established with the server, but then an error occurred during the login process. (provider: TCP Provider, error: 0 - An existing connection was forcibly closed by the remote host.)
+2022-11-08 11:28:15:3009 : EXCEPTION - GetSubtaskentryIncorrect syntax near ')'.
+2022-11-08 11:33:06:0150 : EXCEPTION - GetSubtaskentryIncorrect syntax near ')'.
+2022-11-08 11:34:15:2106 : EXCEPTION - GetSubtaskentryIncorrect syntax near ')'.
+2022-11-08 11:34:35:4803 : EXCEPTION - GetSubtaskentryIncorrect syntax near ')'.
+2022-11-08 11:35:21:2078 : EXCEPTION - GetSubtaskentryIncorrect syntax near ')'.
+2022-11-08 11:37:20:3877 : EXCEPTION - GetSubtaskentryIncorrect syntax near ')'.
+2022-11-08 11:38:25:1420 : EXCEPTION - GetSubtaskentryIncorrect syntax near ')'.
+2022-11-08 11:39:04:5158 : EXCEPTION - GetSubtaskentryIncorrect syntax near ')'.
+2022-11-08 11:39:26:3554 : EXCEPTION - GetSubtaskentryIncorrect syntax near ')'.
+2022-11-08 12:04:56:7199 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-08 12:47:24:0050 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-08 12:47:47:9430 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-08 12:47:54:0392 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-08 12:48:01:0299 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-08 14:46:48:2979 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-08 14:52:23:2633 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-08 14:54:01:9994 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-08 14:56:54:8135 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-08 14:59:33:5561 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-08 15:59:15:6279 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-08 16:53:40:0953 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-08 16:53:45:8913 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-08 16:53:49:8197 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-08 16:53:51:9278 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-08 16:56:55:0111 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-08 16:57:05:6526 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-08 16:57:07:6104 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-08 16:57:12:1541 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-08 16:57:16:4206 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-08 16:57:51:2226 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-08 16:59:53:0809 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-08 17:03:59:0351 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-08 17:19:38:4885 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-08 17:57:30:0473 : EXCEPTION - SelectedtasktransObject reference not set to an instance of an object.
+2022-11-08 17:57:40:3454 : EXCEPTION - SelectedtasktransObject reference not set to an instance of an object.
+2022-11-08 20:36:16:4190 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-08 20:36:30:0762 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-08 20:36:31:2195 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-08 20:36:38:2605 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-08 20:36:39:6473 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-08 20:44:42:4889 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-08 20:53:13:4923 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-08 21:43:01:1534 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-08 21:44:11:8281 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-08 21:55:01:5400 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-08 21:57:08:8552 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-08 21:58:56:0423 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-08 22:00:04:5873 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-08 22:00:52:4184 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-08 22:01:46:3691 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-08 22:05:19:7506 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-08 22:17:41:3775 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-08 22:20:59:4655 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-08 22:27:22:4517 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-08 22:39:42:8153 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-08 22:40:02:1644 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-08 22:40:59:9813 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-08 22:54:03:9192 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-08 22:54:04:7182 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-08 23:03:47:5562 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-08 23:11:33:8589 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-08 23:11:53:2612 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-08 23:15:26:8406 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-08 23:16:35:5815 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-08 23:17:26:8405 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-08 23:18:05:1703 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.

@@ -1,0 +1,5 @@
+﻿2022-07-29 09:49:48:5048 : DEBUG - There is no row at position 3.
+2022-07-29 09:50:11:1309 : DEBUG - There is no row at position 3.
+2022-07-29 09:50:56:1322 : DEBUG - There is no row at position 3.
+2022-07-29 14:02:31:7044 : EXCEPTION - btnClear_Click'ddlRegion' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value

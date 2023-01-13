@@ -1,0 +1,73 @@
+﻿2022-10-19 10:10:12:8818 : DEBUG - There is no row at position 6.
+2022-10-19 10:11:43:6356 : EXCEPTION - Error in getAuditDateDetails - Incorrect syntax near the keyword 'order'.
+2022-10-19 10:15:21:2031 : EXCEPTION - Error in getAuditDateDetails - Incorrect syntax near the keyword 'order'.
+2022-10-19 10:15:47:5212 : EXCEPTION - Error in getAuditDateDetails - Incorrect syntax near the keyword 'order'.
+2022-10-19 10:16:04:7237 : EXCEPTION - Error in getAuditDateDetails - Incorrect syntax near the keyword 'order'.
+2022-10-19 10:20:42:8887 : EXCEPTION - Error in getAuditDateDetails - Incorrect syntax near the keyword 'order'.
+2022-10-19 10:22:03:9926 : EXCEPTION - Error in getAuditDateDetails - Incorrect syntax near the keyword 'order'.
+2022-10-19 10:26:13:8739 : EXCEPTION - Error in getAuditDateDetails - Incorrect syntax near the keyword 'order'.
+2022-10-19 10:35:26:0335 : EXCEPTION - Error in getAuditDateDetails - Incorrect syntax near the keyword 'order'.
+2022-10-19 10:39:18:1470 : EXCEPTION - Error in getAuditDateDetails - Incorrect syntax near the keyword 'order'.
+2022-10-19 15:37:50:9975 : EXCEPTION - GetWeekNumbersThe conversion of a nvarchar data type to a datetime data type resulted in an out-of-range value.
+2022-10-19 18:09:28:4770 : EXCEPTION - GetAssignedValuesInvalid column name 'ProjectID'.
+2022-10-19 18:09:28:5360 : EXCEPTION - GetAssignedValuesInvalid column name 'ProjectID'.
+2022-10-19 18:09:28:6000 : EXCEPTION - GetAssignedValuesInvalid column name 'ProjectID'.
+2022-10-19 18:09:28:8120 : EXCEPTION - GetAssignedValuesInvalid column name 'ProjectID'.
+2022-10-19 18:09:28:9230 : EXCEPTION - GetAssignedValuesInvalid column name 'ProjectID'.
+2022-10-19 18:12:28:1346 : EXCEPTION - GetAssignedValuesInvalid column name 'ProjectID'.
+2022-10-19 18:12:28:3216 : EXCEPTION - GetAssignedValuesInvalid column name 'ProjectID'.
+2022-10-19 18:12:28:3936 : EXCEPTION - GetAssignedValuesInvalid column name 'ProjectID'.
+2022-10-19 18:12:28:4286 : EXCEPTION - GetAssignedValuesInvalid column name 'ProjectID'.
+2022-10-19 18:12:28:5636 : EXCEPTION - GetAssignedValuesInvalid column name 'ProjectID'.
+2022-10-19 18:13:21:1750 : EXCEPTION - GetAssignedValuesInvalid column name 'ProjectID'.
+2022-10-19 18:13:23:2080 : EXCEPTION - GetAssignedValuesInvalid column name 'ProjectID'.
+2022-10-19 18:13:24:1400 : EXCEPTION - GetAssignedValuesInvalid column name 'ProjectID'.
+2022-10-19 18:13:25:3259 : EXCEPTION - GetAssignedValuesInvalid column name 'ProjectID'.
+2022-10-19 18:13:26:0199 : EXCEPTION - GetAssignedValuesInvalid column name 'ProjectID'.
+2022-10-19 18:13:27:6674 : EXCEPTION - GetAssignedValuesInvalid column name 'ProjectID'.
+2022-10-19 18:13:27:8634 : EXCEPTION - GetAssignedValuesInvalid column name 'ProjectID'.
+2022-10-19 18:13:28:0284 : EXCEPTION - GetAssignedValuesInvalid column name 'ProjectID'.
+2022-10-19 18:13:28:4284 : EXCEPTION - GetAssignedValuesInvalid column name 'ProjectID'.
+2022-10-19 18:13:29:9914 : EXCEPTION - GetAssignedValuesInvalid column name 'ProjectID'.
+2022-10-19 18:13:32:4450 : EXCEPTION - GetAssignedValuesInvalid column name 'ProjectID'.
+2022-10-19 18:13:33:8540 : EXCEPTION - GetAssignedValuesInvalid column name 'ProjectID'.
+2022-10-19 18:13:34:1490 : EXCEPTION - GetAssignedValuesInvalid column name 'ProjectID'.
+2022-10-19 18:13:35:3589 : EXCEPTION - GetAssignedValuesInvalid column name 'ProjectID'.
+2022-10-19 18:13:36:4999 : EXCEPTION - GetAssignedValuesInvalid column name 'ProjectID'.
+2022-10-19 18:13:38:9869 : EXCEPTION - GetAssignedValuesInvalid column name 'ProjectID'.
+2022-10-19 18:13:40:5555 : EXCEPTION - GetAssignedValuesInvalid column name 'ProjectID'.
+2022-10-19 18:13:40:8465 : EXCEPTION - GetAssignedValuesInvalid column name 'ProjectID'.
+2022-10-19 18:13:41:0555 : EXCEPTION - GetAssignedValuesInvalid column name 'ProjectID'.
+2022-10-19 18:13:41:1195 : EXCEPTION - GetAssignedValuesInvalid column name 'ProjectID'.
+2022-10-19 18:13:42:3075 : EXCEPTION - GetAssignedValuesInvalid column name 'ProjectID'.
+2022-10-19 18:13:42:4035 : EXCEPTION - GetAssignedValuesInvalid column name 'ProjectID'.
+2022-10-19 18:13:42:4535 : EXCEPTION - GetAssignedValuesInvalid column name 'ProjectID'.
+2022-10-19 18:13:42:6235 : EXCEPTION - GetAssignedValuesInvalid column name 'ProjectID'.
+2022-10-19 18:13:42:6935 : EXCEPTION - GetAssignedValuesInvalid column name 'ProjectID'.
+2022-10-19 18:15:24:5211 : EXCEPTION - GetAssignedValuesInvalid column name 'ProjectID'.
+2022-10-19 18:15:24:7211 : EXCEPTION - GetAssignedValuesInvalid column name 'ProjectID'.
+2022-10-19 18:15:24:7981 : EXCEPTION - GetAssignedValuesInvalid column name 'ProjectID'.
+2022-10-19 18:15:24:9321 : EXCEPTION - GetAssignedValuesInvalid column name 'ProjectID'.
+2022-10-19 18:15:25:0051 : EXCEPTION - GetAssignedValuesInvalid column name 'ProjectID'.
+2022-10-19 21:19:48:6947 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-10-19 21:20:49:6065 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-10-19 21:20:49:6545 : EXCEPTION - BindProjectIdA network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-10-19 21:20:49:7207 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-10-19 21:21:50:4083 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-10-19 21:21:50:4563 : EXCEPTION - GetCustomernameA network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-10-19 21:21:50:5063 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-10-19 21:22:51:0859 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-10-19 21:22:51:1398 : EXCEPTION - BindWeekNumbersA network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-10-19 21:22:51:1944 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-10-19 21:23:52:0633 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-10-19 21:34:32:8930 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-10-19 21:35:32:9099 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-10-19 21:35:32:9775 : EXCEPTION - BindProjectIdA network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-10-19 21:35:33:0355 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-10-19 21:36:33:5454 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-10-19 21:36:33:5932 : EXCEPTION - GetCustomernameA network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-10-19 21:36:33:6479 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-10-19 21:37:34:1475 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-10-19 21:37:34:1975 : EXCEPTION - BindWeekNumbersA network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-10-19 21:37:34:2513 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-10-19 21:38:34:5271 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)

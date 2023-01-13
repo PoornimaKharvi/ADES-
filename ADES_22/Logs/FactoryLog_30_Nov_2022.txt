@@ -1,0 +1,4 @@
+﻿2022-11-30 11:35:27:6358 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-30 11:35:33:2140 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-30 12:14:55:4141 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-30 12:14:55:7475 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.

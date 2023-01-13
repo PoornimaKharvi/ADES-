@@ -1,0 +1,5 @@
+﻿2022-10-10 18:34:09:1337 : EXCEPTION - btnAdd_Click:DataBinding: 'System.String' does not contain a property with the name 'Text'.
+2022-10-10 18:35:09:7930 : EXCEPTION - btnAdd_Click:DataBinding: 'System.String' does not contain a property with the name 'Text'.
+2022-10-10 18:37:33:3370 : EXCEPTION - btnAdd_Click:DataBinding: 'System.String' does not contain a property with the name 'Text'.
+2022-10-10 18:37:35:8482 : EXCEPTION - btnAdd_Click:DataBinding: 'System.String' does not contain a property with the name 'Text'.
+2022-10-10 18:37:36:7511 : EXCEPTION - btnAdd_Click:DataBinding: 'System.String' does not contain a property with the name 'Text'.

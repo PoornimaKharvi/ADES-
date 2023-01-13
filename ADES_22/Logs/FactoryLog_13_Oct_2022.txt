@@ -1,0 +1,153 @@
+﻿2022-10-13 11:36:46:5139 : EXCEPTION - Error in getAuditDateDetails - Incorrect syntax near the keyword 'order'.
+2022-10-13 11:42:50:3601 : EXCEPTION - Error in getAuditDateDetails - Object reference not set to an instance of an object.
+2022-10-13 11:42:53:3981 : EXCEPTION - Error in getAuditDateDetails - Object reference not set to an instance of an object.
+2022-10-13 12:00:47:7777 : EXCEPTION - Error in getAuditDateDetails - Incorrect syntax near the keyword 'order'.
+2022-10-13 12:03:58:4409 : EXCEPTION - Error in getAuditDateDetails - Incorrect syntax near the keyword 'order'.
+2022-10-13 12:05:37:3294 : EXCEPTION - Error in getAuditDateDetails - Incorrect syntax near the keyword 'order'.
+2022-10-13 12:05:41:7386 : EXCEPTION - Not able to convert datetime string  to DateTime
+2022-10-13 12:05:41:7386 : EXCEPTION - Not able to convert datetime string  to DateTime
+2022-10-13 12:05:42:0993 : EXCEPTION - Error in getAuditDateDetails - Must declare the scalar variable "@machineid".
+2022-10-13 12:10:05:1392 : EXCEPTION - Error in getAuditDateDetails - Incorrect syntax near the keyword 'order'.
+2022-10-13 12:19:14:6264 : EXCEPTION - Error in getAuditDateDetails - Incorrect syntax near the keyword 'order'.
+2022-10-13 12:21:23:7006 : EXCEPTION - Error in getAuditDateDetails - Incorrect syntax near the keyword 'order'.
+2022-10-13 12:21:58:5184 : EXCEPTION - Error in getAuditDateDetails - Incorrect syntax near the keyword 'order'.
+2022-10-13 12:22:06:3043 : EXCEPTION - Error in getAuditDateDetails - Incorrect syntax near the keyword 'order'.
+2022-10-13 12:26:45:3875 : EXCEPTION - Error in getAuditDateDetails - Incorrect syntax near the keyword 'order'.
+2022-10-13 12:30:40:5288 : EXCEPTION - Error in getAuditDateDetails - Incorrect syntax near the keyword 'order'.
+2022-10-13 12:32:03:5406 : EXCEPTION - Error in getAuditDateDetails - Incorrect syntax near the keyword 'order'.
+2022-10-13 12:32:18:1739 : EXCEPTION - Error in getAuditDateDetails - Incorrect syntax near the keyword 'order'.
+2022-10-13 12:32:54:5730 : EXCEPTION - Error in getAuditDateDetails - Incorrect syntax near the keyword 'order'.
+2022-10-13 12:33:02:7052 : EXCEPTION - Error in getAuditDateDetails - Incorrect syntax near the keyword 'order'.
+2022-10-13 12:35:23:8114 : EXCEPTION - Error in getAuditDateDetails - Incorrect syntax near the keyword 'order'.
+2022-10-13 12:42:41:2539 : EXCEPTION - Error in getAuditDateDetails - Incorrect syntax near the keyword 'order'.
+2022-10-13 12:45:35:1960 : EXCEPTION - Error in getAuditDateDetails - Incorrect syntax near the keyword 'order'.
+2022-10-13 12:47:18:3148 : EXCEPTION - Error in getAuditDateDetails - Incorrect syntax near the keyword 'order'.
+2022-10-13 12:52:05:5892 : EXCEPTION - Error in getAuditDateDetails - Incorrect syntax near the keyword 'order'.
+2022-10-13 14:03:49:6580 : EXCEPTION - Error in getAuditDateDetails - Incorrect syntax near the keyword 'order'.
+2022-10-13 14:04:26:6211 : DEBUG - There is no row at position 6.
+2022-10-13 14:13:32:5719 : EXCEPTION - Error in getAuditDateDetails - Incorrect syntax near the keyword 'order'.
+2022-10-13 14:14:09:1809 : DEBUG - There is no row at position 6.
+2022-10-13 14:14:25:8715 : DEBUG - There is no row at position 6.
+2022-10-13 14:17:46:7559 : DEBUG - There is no row at position 6.
+2022-10-13 14:19:47:6135 : DEBUG - There is no row at position 6.
+2022-10-13 14:19:52:6221 : DEBUG - There is no row at position 6.
+2022-10-13 14:20:52:2629 : DEBUG - There is no row at position 6.
+2022-10-13 14:21:14:6922 : DEBUG - There is no row at position 6.
+2022-10-13 14:22:49:1754 : DEBUG - There is no row at position 6.
+2022-10-13 14:23:14:4243 : DEBUG - There is no row at position 6.
+2022-10-13 14:24:37:6907 : DEBUG - There is no row at position 6.
+2022-10-13 14:32:42:8769 : DEBUG - There is no row at position 6.
+2022-10-13 14:33:43:0303 : DEBUG - There is no row at position 6.
+2022-10-13 14:34:03:7825 : DEBUG - There is no row at position 6.
+2022-10-13 14:34:31:3522 : DEBUG - There is no row at position 6.
+2022-10-13 14:36:14:9261 : DEBUG - There is no row at position 6.
+2022-10-13 14:38:06:3171 : DEBUG - There is no row at position 6.
+2022-10-13 14:39:36:5044 : DEBUG - There is no row at position 6.
+2022-10-13 14:42:38:7980 : DEBUG - There is no row at position 6.
+2022-10-13 14:43:33:9941 : DEBUG - There is no row at position 6.
+2022-10-13 14:44:24:8249 : DEBUG - There is no row at position 6.
+2022-10-13 14:45:34:2029 : DEBUG - There is no row at position 6.
+2022-10-13 14:47:11:9286 : DEBUG - There is no row at position 6.
+2022-10-13 14:47:35:4805 : DEBUG - There is no row at position 6.
+2022-10-13 14:50:05:0673 : DEBUG - There is no row at position 6.
+2022-10-13 14:56:27:3245 : DEBUG - There is no row at position 6.
+2022-10-13 14:57:25:7581 : DEBUG - There is no row at position 6.
+2022-10-13 15:01:59:1558 : DEBUG - There is no row at position 6.
+2022-10-13 15:10:56:3093 : DEBUG - There is no row at position 6.
+2022-10-13 15:13:09:0257 : DEBUG - There is no row at position 6.
+2022-10-13 15:14:35:2215 : DEBUG - There is no row at position 6.
+2022-10-13 15:18:32:7664 : EXCEPTION - Error in getAuditDateDetails - Incorrect syntax near the keyword 'order'.
+2022-10-13 15:21:01:8318 : EXCEPTION - Error in getAuditDateDetails - Incorrect syntax near the keyword 'order'.
+2022-10-13 15:30:41:0226 : DEBUG - 2022-01-26 00:00:00
+2022-10-13 15:31:08:1028 : Exception - System.Data.SqlClient.SqlException (0x80131904): Cannot find either column "dbo" or the user-defined function or aggregate "dbo.f_GetLogicalDayStart", or the name is ambiguous.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteScalar()
+   at ADES_22.Model.Util.GetLogicalDayStart(String LRunDay) in D:\ADES\Project Copy\ADES\ADES_22\Model\Util.cs:line 41
+ClientConnectionId:fb2900bb-dd03-43e7-b7ef-a4a94be5e064
+Error Number:4121,State:1,Class:16
+2022-10-13 15:33:04:0400 : EXCEPTION - Error in getAuditDateDetails - Incorrect syntax near the keyword 'order'.
+2022-10-13 15:34:05:4406 : DEBUG - 2022-01-01 00:00:00
+2022-10-13 15:34:05:9256 : Exception - System.Data.SqlClient.SqlException (0x80131904): Cannot find either column "dbo" or the user-defined function or aggregate "dbo.f_GetLogicalDayStart", or the name is ambiguous.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteScalar()
+   at ADES_22.Model.Util.GetLogicalDayStart(String LRunDay) in D:\ADES\Project Copy\ADES\ADES_22\Model\Util.cs:line 41
+ClientConnectionId:dccb7a1a-1090-4447-bde5-a7a1535d2137
+Error Number:4121,State:1,Class:16
+2022-10-13 15:36:10:8033 : EXCEPTION - Error in getAuditDateDetails - Incorrect syntax near the keyword 'order'.
+2022-10-13 15:36:51:1518 : DEBUG - 2022-01-01 00:00:00
+2022-10-13 15:36:51:9548 : Exception - System.Data.SqlClient.SqlException (0x80131904): Cannot find either column "dbo" or the user-defined function or aggregate "dbo.f_GetLogicalDayStart", or the name is ambiguous.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteScalar()
+   at ADES_22.Model.Util.GetLogicalDayStart(String LRunDay) in D:\ADES\Project Copy\ADES\ADES_22\Model\Util.cs:line 41
+ClientConnectionId:41e457f5-9d7d-48d6-9bf4-56625b596c34
+Error Number:4121,State:1,Class:16
+2022-10-13 15:37:56:2040 : DEBUG - 2022-01-01 00:00:00
+2022-10-13 15:37:56:2760 : Exception - System.Data.SqlClient.SqlException (0x80131904): Cannot find either column "dbo" or the user-defined function or aggregate "dbo.f_GetLogicalDayStart", or the name is ambiguous.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteScalar()
+   at ADES_22.Model.Util.GetLogicalDayStart(String LRunDay) in D:\ADES\Project Copy\ADES\ADES_22\Model\Util.cs:line 41
+ClientConnectionId:41e457f5-9d7d-48d6-9bf4-56625b596c34
+Error Number:4121,State:1,Class:16
+2022-10-13 15:44:47:1900 : DEBUG - 2022-01-01 00:00:00
+2022-10-13 15:44:47:5500 : Exception - System.Data.SqlClient.SqlException (0x80131904): Cannot find either column "dbo" or the user-defined function or aggregate "dbo.f_GetLogicalDayStart", or the name is ambiguous.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteScalar()
+   at ADES_22.Model.Util.GetLogicalDayStart(String LRunDay) in D:\ADES\Project Copy\ADES\ADES_22\Model\Util.cs:line 41
+ClientConnectionId:5fddcc41-227b-423b-ae8a-6b4a74dba1ea
+Error Number:4121,State:1,Class:16
+2022-10-13 15:45:59:4319 : DEBUG - 2022-01-01 00:00:00
+2022-10-13 15:46:01:2044 : Exception - System.Data.SqlClient.SqlException (0x80131904): Cannot find either column "dbo" or the user-defined function or aggregate "dbo.f_GetLogicalDayStart", or the name is ambiguous.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteScalar()
+   at ADES_22.Model.Util.GetLogicalDayStart(String LRunDay) in D:\ADES\Project Copy\ADES\ADES_22\Model\Util.cs:line 41
+ClientConnectionId:5fddcc41-227b-423b-ae8a-6b4a74dba1ea
+Error Number:4121,State:1,Class:16
+2022-10-13 15:49:44:6780 : DEBUG - 2022-01-01 00:00:00

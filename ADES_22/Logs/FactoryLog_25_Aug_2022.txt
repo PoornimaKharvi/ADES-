@@ -1,0 +1,3 @@
+﻿2022-08-25 16:16:52:3947 : EXCEPTION - getTaskDetails:Year
+2022-08-25 16:18:24:4758 : EXCEPTION - getTaskDetails:Year
+2022-08-25 16:18:31:4081 : EXCEPTION - getTaskDetails:Year

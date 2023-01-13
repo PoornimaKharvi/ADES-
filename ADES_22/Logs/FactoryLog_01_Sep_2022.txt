@@ -1,0 +1,9 @@
+﻿2022-09-01 09:43:33:3359 : EXCEPTION - InsertTaskDetailsGridview:Error converting data type nvarchar to float.
+2022-09-01 09:56:25:7144 : EXCEPTION - InsertTaskDetailsGridview:Error converting data type nvarchar to float.
+2022-09-01 10:09:12:2158 : EXCEPTION - InsertTaskDetailsGridview:Error converting data type nvarchar to float.
+2022-09-01 10:12:28:4143 : EXCEPTION - InsertTaskDetailsGridview:Error converting data type nvarchar to float.
+2022-09-01 12:17:11:4934 : EXCEPTION - InsertTaskDetailsGridview:Error converting data type nvarchar to float.
+2022-09-01 12:17:28:3327 : EXCEPTION - InsertTaskDetailsGridview:Error converting data type nvarchar to float.
+2022-09-01 12:26:24:4745 : EXCEPTION - InsertTaskDetailsGridview:Error converting data type nvarchar to float.
+2022-09-01 12:46:09:7310 : EXCEPTION - InsertTaskDetailsGridview1:Error converting data type nvarchar to float.
+2022-09-01 14:38:21:3014 : EXCEPTION - InsertTaskDetailsGridview1:Input string was not in a correct format.

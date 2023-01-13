@@ -1,0 +1,49 @@
+﻿2022-10-20 11:57:22:8963 : EXCEPTION - SelectedsubtaskDataBinding: 'System.Data.DataRowView' does not contain a property with the name 'HeaderVisibility'.
+2022-10-20 13:39:16:5706 : EXCEPTION - GetSubtaskentry@strProjectIDList is not a parameter for procedure S_Get_Project_Tasks_Details.
+2022-10-20 13:39:30:1942 : EXCEPTION - GetSubtaskentry@strProjectIDList is not a parameter for procedure S_Get_Project_Tasks_Details.
+2022-10-20 13:39:33:1271 : EXCEPTION - GetSubtaskentry@strProjectIDList is not a parameter for procedure S_Get_Project_Tasks_Details.
+2022-10-20 13:39:35:3727 : EXCEPTION - GetSubtaskentry@strProjectIDList is not a parameter for procedure S_Get_Project_Tasks_Details.
+2022-10-20 13:41:39:2165 : EXCEPTION - GetSubtaskentry@strProjectIDList is not a parameter for procedure S_Get_Project_Tasks_Details.
+2022-10-20 13:42:20:6765 : EXCEPTION - GetSubtaskentry@strProjectIDList is not a parameter for procedure S_Get_Project_Tasks_Details.
+2022-10-20 13:43:17:2941 : EXCEPTION - GetSubtaskentry@strProjectIDList is not a parameter for procedure S_Get_Project_Tasks_Details.
+2022-10-20 14:01:52:9694 : EXCEPTION - SelecteddashboardsubtaskDataBinding: 'System.Data.DataRowView' does not contain a property with the name 'HeaderVisibility'.
+2022-10-20 14:07:58:2363 : EXCEPTION - GetSubtaskentryInvalid column name 'SONA'.
+2022-10-20 14:08:03:1463 : EXCEPTION - GetSubtaskentryInvalid column name 'SONA'.
+2022-10-20 14:08:04:5837 : EXCEPTION - GetSubtaskentryInvalid column name 'SONA'.
+2022-10-20 14:08:05:2826 : EXCEPTION - GetSubtaskentryInvalid column name 'SONA'.
+2022-10-20 14:08:08:2272 : EXCEPTION - GetSubtaskentryInvalid column name 'SONA'.
+2022-10-20 14:08:09:9892 : EXCEPTION - GetSubtaskentryInvalid column name 'SONA'.
+2022-10-20 14:08:14:0835 : EXCEPTION - GetSubtaskentryInvalid column name 'SONA'.
+2022-10-20 14:08:19:8509 : EXCEPTION - GetSubtaskentryInvalid column name 'SONA'.
+2022-10-20 14:08:22:0330 : EXCEPTION - GetSubtaskentryInvalid column name 'SONA'.
+2022-10-20 14:09:01:2145 : EXCEPTION - GetSubtaskentryInvalid column name 'SONA'.
+2022-10-20 14:10:16:9989 : EXCEPTION - GetSubtaskentryInvalid column name 'SONA'.
+2022-10-20 14:10:39:1119 : EXCEPTION - GetSubtaskentryInvalid column name 'SONA'.
+2022-10-20 14:31:02:9751 : EXCEPTION - GetSubtaskentryIncorrect syntax near '`'.
+Unclosed quotation mark after the character string 'ADES_22.Model.Su)'.
+2022-10-20 14:38:28:6948 : EXCEPTION - GetSubtaskentryInvalid column name 'SONA'.
+2022-10-20 14:38:32:9648 : EXCEPTION - GetSubtaskentryInvalid column name 'SONA'.
+2022-10-20 14:39:17:0154 : EXCEPTION - GetSubtaskentryInvalid column name 'SONA'.
+2022-10-20 14:39:18:1397 : EXCEPTION - GetSubtaskentryInvalid column name 'SONA'.
+2022-10-20 14:43:13:1514 : EXCEPTION - GetSubtaskentryInvalid column name 'BOSCH'.
+Invalid column name 'SONA'.
+2022-10-20 15:05:59:1326 : EXCEPTION - GetSubtaskentryIncorrect syntax near ','.
+2022-10-20 15:22:55:9884 : EXCEPTION - GetSubtaskentryIncorrect syntax near ''.
+2022-10-20 16:23:47:4450 : EXCEPTION - btnSave_ClickObject reference not set to an instance of an object.
+2022-10-20 16:32:55:4146 : EXCEPTION - lbEdit_ClickObject reference not set to an instance of an object.
+2022-10-20 18:08:13:4132 : EXCEPTION - SelectedsubtaskColumn 'Request' does not belong to table .
+2022-10-20 18:33:43:6919 : EXCEPTION - InsertTaskDetailsGridview@MaintaskStatus is not a parameter for procedure S_Get_Project_Tasks_Details.
+2022-10-20 18:34:58:8869 : EXCEPTION - InsertTaskDetailsGridview@MaintaskStatus is not a parameter for procedure S_Get_Project_Tasks_Details.
+2022-10-20 22:12:46:4708 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-10-20 22:13:46:5320 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-10-20 22:13:46:6133 : EXCEPTION - BindProjectIdA network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-10-20 22:13:46:6825 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-10-20 22:14:47:5254 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-10-20 22:14:47:5805 : EXCEPTION - GetCustomernameA network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-10-20 22:14:47:6396 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-10-20 22:15:48:1549 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-10-20 22:15:48:2063 : EXCEPTION - BindWeekNumbersA network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-10-20 22:15:48:2652 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-10-20 22:16:49:0187 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-10-20 22:16:49:1037 : EXCEPTION - BindAssignedTo: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-10-20 22:16:49:1478 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)

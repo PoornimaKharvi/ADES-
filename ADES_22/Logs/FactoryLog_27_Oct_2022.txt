@@ -1,0 +1,95 @@
+﻿2022-10-27 10:40:42:3430 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-10-27 10:41:43:7117 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-10-27 10:41:44:0078 : EXCEPTION - BindProjectIdA network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-10-27 10:41:44:4078 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-10-27 10:42:44:6422 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-10-27 10:42:45:1539 : EXCEPTION - GetCustomernameA network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-10-27 10:42:45:9620 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-10-27 10:43:46:9800 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-10-27 10:43:47:0965 : EXCEPTION - BindWeekNumbersA network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-10-27 10:43:47:4225 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-10-27 10:44:48:5209 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-10-27 10:44:48:8999 : EXCEPTION - BindWeekNumbersA network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-10-27 10:44:50:1206 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-10-27 10:46:05:4613 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-10-27 10:46:05:5929 : EXCEPTION - BindAssignedTo: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-10-27 10:46:21:9512 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-10-27 10:47:22:9297 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+2022-10-27 10:52:33:9652 : EXCEPTION - SelectedtasktransObject reference not set to an instance of an object.
+2022-10-27 10:53:40:3233 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-10-27 11:13:57:0743 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-10-27 11:43:39:9043 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-10-27 11:43:49:3526 : EXCEPTION - GetMemberTaskDetailsIDD
+2022-10-27 11:54:15:5164 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-10-27 11:58:55:3097 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-10-27 11:59:22:8242 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-10-27 12:01:47:3035 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-10-27 12:02:28:4459 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-10-27 12:02:42:1669 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-10-27 12:02:47:7717 : EXCEPTION - GetMemberTaskDetailsIDD
+2022-10-27 12:02:49:2182 : EXCEPTION - GetMemberTaskDetailsIDD
+2022-10-27 12:02:49:5584 : EXCEPTION - GetMemberTaskDetailsIDD
+2022-10-27 12:02:50:0222 : EXCEPTION - GetMemberTaskDetailsIDD
+2022-10-27 12:02:50:8591 : EXCEPTION - GetMemberTaskDetailsIDD
+2022-10-27 12:02:51:1207 : EXCEPTION - GetMemberTaskDetailsIDD
+2022-10-27 14:09:09:3358 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-10-27 14:09:10:0615 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-10-27 14:09:22:7253 : EXCEPTION - GetMemberTaskDetailsIDD
+2022-10-27 14:09:25:2969 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-10-27 14:09:27:7160 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-10-27 14:14:27:2842 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-10-27 14:36:57:5221 : EXCEPTION - SelectedtasktransObject reference not set to an instance of an object.
+2022-10-27 14:37:59:5541 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-10-27 14:38:09:8495 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-10-27 14:38:40:1148 : EXCEPTION - GetMemberTaskDetailsIDD
+2022-10-27 14:42:07:0665 : EXCEPTION - GetMemberTaskDetailsIDD
+2022-10-27 14:43:02:4079 : EXCEPTION - GetMemberTaskDetailsIDD
+2022-10-27 14:43:31:8471 : EXCEPTION - GetMemberTaskDetailsIDD
+2022-10-27 14:44:47:1040 : EXCEPTION - GetMemberTaskDetailsIDD
+2022-10-27 14:45:28:9539 : EXCEPTION - GetMemberTaskDetailsIDD
+2022-10-27 14:52:21:1134 : EXCEPTION - SelectedtasktransObject reference not set to an instance of an object.
+2022-10-27 14:53:18:6401 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-10-27 15:19:58:4271 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2022-10-27 15:20:59:3086 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2022-10-27 15:20:59:3682 : EXCEPTION - BindProjectIdA network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2022-10-27 15:20:59:4283 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2022-10-27 15:22:00:0358 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2022-10-27 15:22:00:1153 : EXCEPTION - GetCustomernameA network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2022-10-27 15:22:00:1997 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2022-10-27 15:23:00:8191 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2022-10-27 15:23:00:8767 : EXCEPTION - BindWeekNumbersA network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2022-10-27 15:23:00:9293 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2022-10-27 15:24:01:7993 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2022-10-27 15:24:01:8518 : EXCEPTION - BindWeekNumbersA network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2022-10-27 15:24:01:9154 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2022-10-27 15:25:10:5575 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2022-10-27 15:25:10:7114 : EXCEPTION - BindAssignedTo: A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2022-10-27 15:25:10:7701 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2022-10-27 15:26:14:8549 : EXCEPTION - A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)
+2022-10-27 15:31:25:4154 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-10-27 15:31:47:2750 : EXCEPTION - GetMemberTaskDetailsMainTaskIDD
+2022-10-27 15:42:42:9067 : EXCEPTION - GetMemberTaskDetailsMainTaskIDD
+2022-10-27 15:44:11:4625 : EXCEPTION - GetMemberTaskDetailsMainTaskIDD
+2022-10-27 16:00:20:5401 : EXCEPTION - GetMemberTaskDetailsMainTaskIDD
+2022-10-27 16:04:45:9744 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-10-27 16:42:56:9707 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-10-27 16:43:08:3279 : EXCEPTION - GetMemberTaskDetailsMainTaskIDD
+2022-10-27 17:04:31:1052 : EXCEPTION - GetMemberTaskDetailsMainTaskIDD
+2022-10-27 17:05:20:6579 : EXCEPTION - SelectedtasktransObject reference not set to an instance of an object.
+2022-10-27 17:05:54:5925 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-10-27 17:10:45:9107 : EXCEPTION - GetMemberTaskDetailsMainTaskIDD
+2022-10-27 17:48:36:9607 : EXCEPTION - GetMemberTaskDetailsMainTaskIDD
+2022-10-27 17:48:48:6186 : EXCEPTION - SelectedtasktransObject reference not set to an instance of an object.
+2022-10-27 17:49:28:3006 : EXCEPTION - SelectedtasktransObject reference not set to an instance of an object.
+2022-10-27 17:50:15:7597 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-10-27 18:03:35:3577 : EXCEPTION - GetMemberTaskDetailsMainTaskIDD
+2022-10-27 18:07:46:4111 : EXCEPTION - GetMemberTaskDetailsMainTaskIDD
+2022-10-27 18:27:12:3363 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-10-27 18:32:39:0611 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-10-27 18:50:10:5381 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-10-27 18:50:21:7094 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-10-27 19:29:52:0581 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-10-27 19:30:01:3418 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-10-27 19:42:34:1957 : EXCEPTION - GetMemberTaskDetailsColumn 'TDate' does not belong to table .
+2022-10-27 20:55:49:7160 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-10-27 20:56:03:0108 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.

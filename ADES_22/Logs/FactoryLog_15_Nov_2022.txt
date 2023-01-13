@@ -1,0 +1,17 @@
+﻿2022-11-15 09:25:58:0110 : EXCEPTION - GetMaintaskValuesInvalid attempt to call Read when reader is closed.
+2022-11-15 09:30:10:6088 : EXCEPTION - GetMaintaskValuesInvalid attempt to call Read when reader is closed.
+2022-11-15 09:51:58:7740 : EXCEPTION - GetMaintaskValuesInvalid attempt to call Read when reader is closed.
+2022-11-15 09:54:30:2726 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-15 09:54:46:7258 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-15 09:57:12:4897 : EXCEPTION - GetMaintaskValuesInvalid attempt to call Read when reader is closed.
+2022-11-15 09:57:49:2515 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-15 09:58:53:9657 : EXCEPTION - GetMaintaskValuesInvalid attempt to call Read when reader is closed.
+2022-11-15 10:00:00:3910 : EXCEPTION - GetMaintaskValuesInvalid attempt to call Read when reader is closed.
+2022-11-15 10:04:32:3377 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-15 10:06:52:9836 : EXCEPTION - SaveTransactionDetails: The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters. 
+2022-11-15 10:06:53:0616 : EXCEPTION - SaveTransactionDetails: The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters. 
+2022-11-15 13:35:57:0078 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-15 14:03:42:7766 : EXCEPTION - GetMaintaskValuesInvalid attempt to call Read when reader is closed.
+2022-11-15 14:10:13:9737 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-15 14:38:24:1125 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-15 14:55:32:7897 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.

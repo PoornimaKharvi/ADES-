@@ -1,0 +1,10 @@
+﻿2022-08-04 09:48:47:3155 : EXCEPTION - btnClear_Click'ddlRegion' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+2022-08-04 09:48:51:7421 : EXCEPTION - btnClear_Click'ddlRegion' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+2022-08-04 09:50:42:8286 : EXCEPTION - btnClear_Click'ddlRegion' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+2022-08-04 10:02:44:3404 : EXCEPTION - btnClear_Click'ddlRegion' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+2022-08-04 10:03:11:3850 : EXCEPTION - btnClear_Click'ddlRegion' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value

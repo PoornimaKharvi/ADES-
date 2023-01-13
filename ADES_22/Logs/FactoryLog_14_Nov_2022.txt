@@ -1,0 +1,93 @@
+﻿2022-11-14 09:36:12:6275 : EXCEPTION - GetSubtaskentryIncorrect syntax near ')'.
+2022-11-14 09:36:51:6626 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-14 10:07:53:9021 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-14 10:08:46:0537 : EXCEPTION - GetMaintaskValuesInvalid attempt to call Read when reader is closed.
+2022-11-14 10:08:54:6817 : EXCEPTION - GetMaintaskValuesInvalid attempt to call Read when reader is closed.
+2022-11-14 10:09:11:7174 : EXCEPTION - GetMaintaskValuesInvalid attempt to call Read when reader is closed.
+2022-11-14 10:09:14:2635 : EXCEPTION - GetMaintaskValuesInvalid attempt to call Read when reader is closed.
+2022-11-14 10:10:02:3940 : EXCEPTION - GetMaintaskValuesInvalid attempt to call Read when reader is closed.
+2022-11-14 10:21:56:1180 : EXCEPTION - GetMaintaskValuesInvalid attempt to call Read when reader is closed.
+2022-11-14 10:23:49:3247 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-14 10:24:33:3298 : EXCEPTION - btnFileDownLoad_ClickIndex was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-11-14 10:25:41:6376 : EXCEPTION - btnFileDownLoad_ClickIndex was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-11-14 10:26:32:7664 : EXCEPTION - btnFileDownLoad_ClickIndex was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-11-14 10:26:41:3647 : EXCEPTION - btnFileDownLoad_ClickIndex was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+2022-11-14 10:29:54:6332 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-14 10:30:00:3800 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-14 10:30:28:9808 : EXCEPTION - GetMaintaskValuesInvalid attempt to call Read when reader is closed.
+2022-11-14 10:32:11:0542 : EXCEPTION - GetMaintaskValuesInvalid attempt to call Read when reader is closed.
+2022-11-14 10:33:29:3187 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-14 10:36:33:4436 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-14 10:37:53:3619 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-14 10:39:47:5948 : EXCEPTION - Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+2022-11-14 10:40:52:1341 : EXCEPTION - Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+2022-11-14 10:40:54:7344 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-14 10:52:49:6547 : EXCEPTION - GetSubtaskentryIncorrect syntax near ')'.
+2022-11-14 10:53:35:5089 : EXCEPTION - GetSubtaskentryIncorrect syntax near ')'.
+2022-11-14 10:53:44:9908 : EXCEPTION - GetSubtaskentryIncorrect syntax near ')'.
+2022-11-14 10:55:25:9091 : EXCEPTION - GetSubtaskentryIncorrect syntax near ')'.
+2022-11-14 10:55:41:1333 : EXCEPTION - Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+2022-11-14 10:56:45:4762 : EXCEPTION - Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+2022-11-14 10:57:00:6276 : EXCEPTION - Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+2022-11-14 10:57:28:9164 : EXCEPTION - Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+2022-11-14 10:58:04:9202 : EXCEPTION - Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+2022-11-14 10:58:33:7892 : EXCEPTION - Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+2022-11-14 10:58:46:1573 : EXCEPTION - SelectedsubtaskTimeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+2022-11-14 10:59:02:3356 : EXCEPTION - Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+2022-11-14 11:00:07:1203 : EXCEPTION - Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+2022-11-14 11:00:07:1827 : EXCEPTION - GetCustomernameTimeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+2022-11-14 11:00:22:3539 : EXCEPTION - Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+2022-11-14 11:10:13:9336 : EXCEPTION - GetSubtaskentryIncorrect syntax near ')'.
+2022-11-14 11:10:54:0065 : EXCEPTION - GetSubtaskentryIncorrect syntax near ')'.
+2022-11-14 11:13:17:7858 : EXCEPTION - GetSubtaskentryIncorrect syntax near ')'.
+2022-11-14 11:15:13:5985 : EXCEPTION - GetSubtaskentryIncorrect syntax near ')'.
+2022-11-14 11:22:14:5766 : EXCEPTION - GetSubtaskentryIncorrect syntax near ')'.
+2022-11-14 11:23:01:8773 : EXCEPTION - GetSubtaskentryIncorrect syntax near ')'.
+2022-11-14 12:08:47:8635 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-14 12:09:14:8331 : EXCEPTION - SaveTransactionDetails: The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters. 
+2022-11-14 12:09:14:8726 : EXCEPTION - SaveTransactionDetails: The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters. 
+2022-11-14 12:09:14:8928 : EXCEPTION - SaveTransactionDetails: The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters. 
+2022-11-14 12:19:46:1859 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-14 12:19:46:5079 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-14 12:25:49:4726 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-14 12:38:26:3618 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-14 12:39:16:7344 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-14 12:39:17:4860 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-14 13:49:50:8249 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-14 13:50:00:4079 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-14 13:59:45:8967 : EXCEPTION - GetMaintaskValuesInvalid attempt to call Read when reader is closed.
+2022-11-14 14:03:03:3457 : EXCEPTION - GetMaintaskValuesInvalid attempt to call Read when reader is closed.
+2022-11-14 14:12:03:2696 : EXCEPTION - GetMaintaskValuesInvalid attempt to call Read when reader is closed.
+2022-11-14 14:12:21:8543 : EXCEPTION - GetMaintaskValuesInvalid attempt to call Read when reader is closed.
+2022-11-14 14:38:54:9090 : EXCEPTION - GetMaintaskValuesInvalid attempt to call Read when reader is closed.
+2022-11-14 14:41:58:8571 : EXCEPTION - GetMaintaskValuesInvalid attempt to call Read when reader is closed.
+2022-11-14 14:58:32:7087 : EXCEPTION - GetMaintaskValuesInvalid attempt to call Read when reader is closed.
+2022-11-14 14:59:19:5752 : EXCEPTION - GetMaintaskValuesInvalid attempt to call Read when reader is closed.
+2022-11-14 15:04:32:8915 : EXCEPTION - GetMaintaskValuesInvalid attempt to call Read when reader is closed.
+2022-11-14 15:07:57:6690 : EXCEPTION - GetMaintaskValuesInvalid attempt to call Read when reader is closed.
+2022-11-14 15:14:06:8683 : EXCEPTION - GetMaintaskValuesInvalid attempt to call Read when reader is closed.
+2022-11-14 16:35:21:8626 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-14 16:35:34:7012 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-14 16:35:50:6921 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-14 16:37:35:6415 : EXCEPTION - SaveTransactionDetails: The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters. 
+2022-11-14 16:40:58:8125 : EXCEPTION - GetMaintaskValuesInvalid attempt to call Read when reader is closed.
+2022-11-14 16:42:45:0395 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-14 16:44:10:4058 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-14 16:44:11:2664 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-14 16:45:42:4853 : EXCEPTION - GetMaintaskValuesInvalid attempt to call Read when reader is closed.
+2022-11-14 16:47:45:2732 : EXCEPTION - GetMaintaskValuesInvalid attempt to call Read when reader is closed.
+2022-11-14 16:48:24:2020 : EXCEPTION - GetMaintaskValuesInvalid attempt to call Read when reader is closed.
+2022-11-14 16:52:13:2033 : EXCEPTION - GetMaintaskValuesInvalid attempt to call Read when reader is closed.
+2022-11-14 16:52:57:9102 : EXCEPTION - GetMaintaskValuesInvalid attempt to call Read when reader is closed.
+2022-11-14 16:57:11:4352 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-14 16:59:36:2686 : EXCEPTION - SaveTransactionDetails: The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters. 
+2022-11-14 17:01:01:9984 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-14 17:31:23:4837 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-14 17:32:43:0660 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-14 17:34:58:6437 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-14 18:34:29:5661 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-14 18:34:29:8290 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.

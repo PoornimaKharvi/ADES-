@@ -1,0 +1,34 @@
+﻿2022-11-04 09:40:05:6053 : EXCEPTION - SelecteddashboardsubtaskObject cannot be cast from DBNull to other types.
+2022-11-04 09:40:09:8654 : EXCEPTION - SelecteddashboardsubtaskObject cannot be cast from DBNull to other types.
+2022-11-04 09:42:04:2520 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-04 09:51:29:5011 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-04 09:53:38:1608 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-04 10:50:58:2230 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-04 10:51:34:0117 : EXCEPTION - SelecteddashboardsubtaskObject cannot be cast from DBNull to other types.
+2022-11-04 11:03:51:8322 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-04 12:31:02:3847 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-04 14:37:50:0926 : EXCEPTION - BindAssignedTo: Object reference not set to an instance of an object.
+2022-11-04 14:37:52:7458 : EXCEPTION - A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: SSL Provider, error: 0 - The wait operation timed out.)
+2022-11-04 14:37:52:7518 : EXCEPTION - A connection was successfully established with the server, but then an error occurred during the pre-login handshake. (provider: SSL Provider, error: 0 - The wait operation timed out.)
+2022-11-04 14:38:02:5401 : EXCEPTION - BindAssignedTo: Object reference not set to an instance of an object.
+2022-11-04 14:47:32:1657 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-04 14:49:41:9109 : EXCEPTION - BindAssignedTo: Object reference not set to an instance of an object.
+2022-11-04 14:55:03:7489 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-04 15:14:32:6379 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-04 17:10:45:9004 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-04 17:10:46:5244 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-04 17:19:45:5861 : EXCEPTION - GetMemberTaskDetailsInvalid attempt to call HasRows when reader is closed.
+2022-11-04 23:49:05:4921 : EXCEPTION - SelectedsubtaskObject cannot be cast from DBNull to other types.
+2022-11-04 23:49:06:4076 : EXCEPTION - SelectedsubtaskObject cannot be cast from DBNull to other types.
+2022-11-04 23:49:06:9060 : EXCEPTION - SelectedsubtaskObject cannot be cast from DBNull to other types.
+2022-11-04 23:49:14:6620 : EXCEPTION - SelectedsubtaskObject cannot be cast from DBNull to other types.
+2022-11-04 23:49:49:1103 : EXCEPTION - SelectedsubtaskObject cannot be cast from DBNull to other types.
+2022-11-04 23:53:12:2497 : EXCEPTION - SelectedsubtaskObject cannot be cast from DBNull to other types.
+2022-11-04 23:53:40:3350 : EXCEPTION - SelectedsubtaskObject cannot be cast from DBNull to other types.
+2022-11-04 23:53:59:9506 : EXCEPTION - SelectedsubtaskObject cannot be cast from DBNull to other types.
+2022-11-04 23:54:12:6821 : EXCEPTION - SelectedsubtaskObject cannot be cast from DBNull to other types.
+2022-11-04 23:54:17:4474 : EXCEPTION - SelectedsubtaskObject cannot be cast from DBNull to other types.
+2022-11-04 23:54:48:7084 : EXCEPTION - SelectedsubtaskObject cannot be cast from DBNull to other types.
+2022-11-04 23:57:31:3037 : EXCEPTION - SelectedsubtaskObject cannot be cast from DBNull to other types.
+2022-11-04 23:58:32:6642 : EXCEPTION - SelectedsubtaskObject cannot be cast from DBNull to other types.
+2022-11-05 00:00:57:5466 : EXCEPTION - SelectedsubtaskObject cannot be cast from DBNull to other types.
